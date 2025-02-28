@@ -1,0 +1,44 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ContainValue",
+      "request": "launch",
+      "mainClass": "ContainValue",
+      "projectName": "MyPrograms_1d9bf2b0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Attach to Process",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": 5005
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hp/OneDrive - Lovely Professional University/Desktop/MyPrograms/Array",
+      "program": "c:/Users/hp/OneDrive - Lovely Professional University/Desktop/MyPrograms/Array/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
