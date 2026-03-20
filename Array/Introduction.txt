@@ -1,0 +1,179 @@
+The **Two Pointer technique** is a very common pattern in DSA (especially arrays and strings). 
+It usually uses **two indices that move toward each other or in the same direction** to reduce 
+time complexity from **O(n²) → O(n)**.
+
+Below is a **complete roadmap of Two Pointer problems from Basic → Advanced** (commonly asked 
+in interviews and competitive programming).
+
+---
+
+# 1️⃣ Basic Two Pointer Problems (Foundation)
+
+These help you understand **how two indices move**.
+
+1. **Two Sum in Sorted Array**
+2. **Remove Duplicates from Sorted Array**
+3. **Remove Element from Array**
+4. **Reverse an Array / String**
+5. **Palindrome Check (String)**
+6. **Merge Two Sorted Arrays**
+7. **Squares of a Sorted Array**
+8. **Move Zeroes to End**
+9. **Valid Palindrome ignoring special characters**
+10. **Intersection of Two Sorted Arrays**
+
+Concepts learned:
+
+* Left and Right pointer
+* Opposite direction movement
+* Basic array modification
+
+---
+
+# 2️⃣ Intermediate Two Pointer Problems
+
+These introduce **conditions and pointer adjustments**.
+
+11. **Container With Most Water**
+12. **3Sum**
+13. **3Sum Closest**
+14. **Remove Duplicates from Sorted Array II**
+15. **Sort Colors (Dutch National Flag variant)**
+16. **Partition Array**
+17. **Two Sum Less Than K**
+18. **Find Pair With Given Difference**
+19. **Pair With Target Sum in Sorted Array**
+20. **Trapping Rain Water (Two Pointer Approach)**
+
+Concepts learned:
+
+* Sorting + two pointer
+* Greedy pointer movement
+* Pair searching
+
+---
+
+# 3️⃣ Sliding Window (Two Pointer Variant)
+
+Sliding window is actually **a special type of two pointer** where both pointers move forward.
+
+21. **Maximum Sum Subarray of Size K**
+22. **Longest Substring Without Repeating Characters**
+23. **Minimum Window Substring**
+24. **Longest Repeating Character Replacement**
+25. **Permutation in String**
+26. **Find All Anagrams in a String**
+27. **Longest Subarray With Sum ≤ K**
+28. **Fruit Into Baskets**
+29. **Subarray Product Less Than K**
+30. **Maximum Consecutive Ones III**
+
+Concepts learned:
+
+* Dynamic window expansion
+* Shrinking window
+* HashMap with two pointers
+
+---
+
+# 4️⃣ Advanced Two Pointer Problems
+
+These combine **sorting + hashing + two pointers**.
+
+31. **4Sum**
+32. **K-Sum Problem**
+33. **3Sum Smaller**
+34. **Count Triplets With Sum Less Than Target**
+35. **Number of Valid Triangles**
+36. **Find K Closest Elements**
+37. **Minimum Absolute Difference Pair**
+38. **Boats to Save People**
+39. **Partition Labels**
+40. **Shortest Unsorted Continuous Subarray**
+
+Concepts learned:
+
+* Nested two pointers
+* Multi pointer reduction
+* Optimization of brute force
+
+---
+
+# 5️⃣ Expert / Interview Level Two Pointer Problems
+
+These appear in **FAANG interviews**.
+
+41. **Minimum Window Subsequence**
+42. **Backspace String Compare**
+43. **Longest Mountain in Array**
+44. **Valid Triangle Number**
+45. **Next Permutation**
+46. **Rotate Array In-Place**
+47. **Push Dominoes**
+48. **Shortest Distance to Character**
+49. **Count Subarrays With Fixed Bounds**
+50. **Smallest Range Covering Elements From K Lists**
+
+Concepts learned:
+
+* Reverse pointer movement
+* Complex condition checks
+* Multi-stage pointer logic
+
+---
+
+# 6️⃣ Two Pointer Problems on Strings
+
+51. Reverse Words in String
+52. Check if One String is Subsequence of Another
+53. Longest Palindromic Substring (expand pointers)
+54. Valid Palindrome II (delete one char)
+55. Compare Version Numbers
+
+---
+
+# 7️⃣ Two Pointer Problems on Linked List
+
+56. Find Middle of Linked List
+57. Detect Cycle in Linked List (Floyd’s Algorithm)
+58. Remove Nth Node From End
+59. Palindrome Linked List
+60. Intersection of Two Linked Lists
+
+---
+
+# 🎯 Core Two Pointer Patterns
+
+You should recognize **these patterns**:
+
+| Pattern               | Example           |
+| --------------------- | ----------------- |
+| Opposite direction    | Two Sum Sorted    |
+| Same direction        | Remove duplicates |
+| Sliding window        | Longest substring |
+| Fast & Slow pointer   | Cycle detection   |
+| Sorting + two pointer | 3Sum              |
+| Multi pointer         | K-Sum             |
+
+---
+
+# 🧠 Golden Rule to Identify Two Pointer
+
+Use two pointers when:
+
+✔ array is **sorted**
+✔ need **pair or triplet**
+✔ need **subarray / substring**
+✔ want **O(n)** instead of **O(n²)**
+✔ need **window expansion & shrinking**
+
+---
+
+✅ Since you are **preparing DSA concepts (like sliding window and hashing earlier)**, I can also give:
+
+* **Top 30 Two Pointer Interview Questions**
+* **Two Pointer Pattern Cheat Sheet**
+* **Java templates for all types**
+* **Dry run tricks for interviews**
+
+Just tell me and I’ll share them.

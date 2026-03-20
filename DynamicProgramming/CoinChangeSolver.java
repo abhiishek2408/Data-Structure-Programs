@@ -1,7 +1,6 @@
 package DynamicProgramming;
 
 //method calculating the minimum number of coins needed to make a specified amount 
-//using the given denominations. The main method demonstrates how to use this class.
 
 class CoinChangeSolver {
     public int coinChange(int[] coins, int amount) {

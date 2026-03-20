@@ -1,0 +1,149 @@
+Prefix Sum: 
+
+Range Sum Problem
+Subarray Sum Equals K
+
+
+
+
+**Prefix Sum** is a very important technique in **DSA (Arrays, Hashing, Sliding Window, Matrix)**. Many problems use it to compute **range sums, subarrays, and cumulative values efficiently**.
+
+Below is a **categorized list of common Prefix Sum problems** that are frequently asked in coding interviews and platforms like **LeetCode**, **GeeksforGeeks**, and **Codeforces**.
+
+---
+
+# 1️⃣ Basic Prefix Sum Problems
+
+These problems directly use prefix sum to calculate **range sums**.
+
+1. Range Sum Query – Immutable
+2. Running Sum of 1D Array
+3. Find Pivot Index
+4. Left and Right Sum Difference
+5. Range Sum Query – Mutable
+6. Product of Array Except Self
+
+---
+
+# 2️⃣ Subarray Sum Problems (Most Important)
+
+These use prefix sum + hashmap.
+
+1. Subarray Sum Equals K
+2. Count Number of Subarrays with Given Sum
+3. Maximum Size Subarray Sum Equals K
+4. Continuous Subarray Sum (multiple of k)
+5. Binary Subarrays With Sum
+6. Number of Nice Subarrays
+7. Count Subarrays Divisible by K
+8. Subarray Sums Divisible by K
+
+---
+
+# 3️⃣ Prefix Sum with Hashing
+
+Used when we store prefix sums in **HashMap**.
+
+1. Longest Subarray with Sum K
+2. Largest Subarray with Equal 0s and 1s
+3. Count Subarrays with Equal 0s and 1s
+4. Longest Subarray with Given Sum
+5. Subarray with Zero Sum
+
+---
+
+# 4️⃣ Prefix Sum with Sliding Window
+
+Sometimes prefix sums help optimize window problems.
+
+1. Maximum Average Subarray
+2. Maximum Sum Subarray of Size K
+3. Minimum Size Subarray Sum
+4. Maximum Sum of Two Non-Overlapping Subarrays
+
+---
+
+# 5️⃣ 2D Prefix Sum (Matrix Problems)
+
+1. Range Sum Query 2D – Immutable
+2. Matrix Block Sum
+3. Number of Submatrices That Sum to Target
+4. Maximum Sum Rectangle in Matrix
+5. Submatrix Sum Queries
+
+---
+
+# 6️⃣ Difference Array + Prefix Sum
+
+Used in **range update problems**.
+
+1. Range Addition
+2. Corporate Flight Bookings
+3. Car Pooling
+4. Shifting Letters
+5. Maximum Population Year
+
+---
+
+# 7️⃣ Advanced Prefix Sum Problems
+
+1. Maximum Subarray (Kadane + prefix idea)
+2. Count of Range Sum
+3. Maximum Circular Subarray Sum
+4. Subarray Product Less Than K
+5. Shortest Subarray with Sum at Least K
+
+---
+
+# 8️⃣ Binary Array Prefix Sum Problems
+
+1. Max Consecutive Ones III
+2. Longest Subarray of 1s After Deleting One Element
+3. Count Binary Subarrays with Sum
+4. Longest Subarray with Equal 0 and 1
+
+---
+
+# 9️⃣ Prefix XOR Problems
+
+1. XOR Queries of Subarray
+2. Count Subarrays with Given XOR
+3. Maximum XOR Subarray
+4. Triplets That Can Form Two Arrays of Equal XOR
+
+---
+
+# 🔟 Prefix Sum + Greedy / Optimization
+
+1. Candy Distribution
+2. Gas Station Problem
+3. Minimum Moves to Equal Array Elements
+4. Split Array Largest Sum
+
+---
+
+✅ **Total Important Prefix Sum Problems:**
+About **40–50 commonly asked problems**.
+
+---
+
+💡 **Most Important for Interviews**
+
+If you are preparing for **placements (DSA rounds)**, focus on:
+
+1. Subarray Sum Equals K
+2. Longest Subarray with Sum K
+3. Subarray Sums Divisible by K
+4. Count Subarrays with Equal 0 and 1
+5. Range Sum Query
+6. Maximum Size Subarray Sum Equals K
+7. Binary Subarrays With Sum
+
+---
+
+✅ If you want, I can also show:
+
+* **25 Most Important Prefix Sum Problems for Placements**
+* **Prefix Sum Pattern Recognition (how to identify problems quickly)**
+* **Java Template for solving 90% prefix sum problems**
+* **Prefix Sum + HashMap trick used in FAANG interviews**.

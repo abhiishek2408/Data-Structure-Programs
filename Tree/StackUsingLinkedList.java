@@ -1,4 +1,6 @@
-// Class for Node
+package Tree;
+
+// Node class for stack
 class Node {
     int data;
     Node next;

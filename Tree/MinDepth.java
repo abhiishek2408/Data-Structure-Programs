@@ -1,3 +1,5 @@
+package Tree;
+
 public class MinDepth {
 
     public int minDepth(TreeNode root) {

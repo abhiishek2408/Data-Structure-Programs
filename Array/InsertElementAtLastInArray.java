@@ -13,7 +13,7 @@ public class InsertElementAtLastInArray {
             array[i] = array[i + 1]; // Shift elements to the left
         }
         
-        // array[array.length - 1] = target;
+         array[array.length - 1] = target;
         
         System.out.println("\nModified Array:");
         for (int num : array) {

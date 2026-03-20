@@ -1,0 +1,353 @@
+Perfect 👍
+Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented list** de raha hoon — **easy → hard**.
+
+---
+
+## 🟢 BASIC POINTER PROBLEMS
+
+(Concept clear karne ke liye)
+
+1. Reverse an array (two pointers)
+2. Reverse a string (two pointers)
+3. Check palindrome (string / array)
+4. Find smallest & largest element
+5. Move all zeros to end
+6. Move all negatives to one side
+7. Separate even and odd numbers
+8. Swap two numbers using pointers logic
+9. Copy array using pointers logic
+10. Count pairs with given sum (brute → optimized)
+
+---
+
+## 🟡 TWO POINTER – CLASSIC INTERVIEW QUESTIONS
+
+11. Two Sum (sorted array)
+12. Pair with given sum
+13. Pair with given difference
+14. Remove duplicates from sorted array
+15. Remove element (LeetCode style)
+16. Merge two sorted arrays
+17. Intersection of two sorted arrays
+18. Union of two sorted arrays
+19. Square of sorted array (return sorted squares)
+20. Find common elements in 3 sorted arrays
+
+---
+
+## 🟠 SLIDING WINDOW + POINTER MIX
+
+(Very important for coding rounds)
+
+21. Maximum sum subarray of size K
+22. Longest subarray with sum ≤ K
+23. Longest substring without repeating characters
+24. Minimum window substring
+25. Count subarrays with given sum (optimized)
+26. Fruits into baskets
+27. Longest subarray of 1s after flipping K zeros
+
+---
+
+## 🔴 ADVANCED TWO POINTER PROBLEMS
+
+(Product-based companies)
+
+28. Container With Most Water
+29. Trapping Rain Water
+30. 3 Sum
+31. 4 Sum
+32. Count triplets with given sum
+33. Closest pair to given sum
+34. Minimum number of boats to save people
+35. Partition array into 3 parts
+36. Sort colors (Dutch National Flag)
+
+---
+
+## 🔁 POINTER + REVERSE / ROTATION
+
+37. Reverse array between L & R
+38. Rotate array using two pointers
+39. Rotate subarray between L & R
+40. Reverse words in a string
+41. Reverse string without affecting special characters
+42. Rotate string using two pointers
+
+---
+
+## 🔗 POINTERS IN LINKED LIST (MUST-DO)
+
+43. Reverse linked list
+44. Find middle of linked list (slow & fast)
+45. Detect cycle in linked list
+46. Find start of loop
+47. Remove nth node from end
+48. Palindrome linked list
+49. Merge two sorted linked lists
+50. Intersection point of linked lists
+
+---
+
+## ⭐ MUST-DO POINTER QUESTIONS (HIGH PRIORITY)
+
+If interview near hai, **ye pakke karo**:
+
+* Reverse array
+* Two Sum (sorted)
+* Remove duplicates
+* Container With Most Water
+* Trapping Rain Water
+* 3 Sum
+* Palindrome check
+* Middle of linked list
+* Reverse linked list
+
+
+
+
+# Most important
+https://leetcode.com/problems/count-good-triplets-in-an-array/
+
+
+
+
+
+Great 👍
+Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur practice dono ke liye **bahut important** hote hain.
+
+---
+
+## 🟢 BASIC REVERSE QUESTIONS
+
+(Foundation strong karne ke liye)
+
+1. Reverse an array
+2. Reverse a string
+3. Reverse array using recursion
+4. Reverse array using extra space
+5. Reverse first K elements of array
+6. Reverse array between L & R index
+7. Reverse words in a string
+8. Reverse each word in a sentence
+9. Reverse a number
+10. Reverse a linked list (iterative)
+
+---
+
+## 🟡 INTERMEDIATE REVERSE QUESTIONS
+
+(Logical thinking + pointer skills)
+
+11. Reverse array in groups of size K
+12. Reverse alternate K elements
+13. Reverse only vowels in a string
+14. Reverse only consonants in a string
+15. Reverse even positioned elements
+16. Reverse odd positioned elements
+17. Reverse array except first & last element
+18. Reverse array until a given index
+19. Reverse array after a given index
+20. Reverse characters in-place without using extra space
+
+---
+
+## 🟠 ROTATION + REVERSE (Very Important)
+
+(Direct interview favorite)
+
+21. Rotate array left using reverse
+22. Rotate array right using reverse
+23. Rotate array between L & R using reverse
+24. Rotate string using reverse
+25. Circular rotation using reverse technique
+
+---
+
+## 🔴 ADVANCED / INTERVIEW LEVEL
+
+(Asked in Product companies)
+
+26. Reverse words order but keep characters intact
+27. Reverse characters but keep word order intact
+28. Reverse array based on conditions
+29. Reverse subarray to sort array (min reversals)
+30. Reverse array to maximize sum
+31. Reverse pairs to make array sorted
+32. Reverse string but ignore special characters
+33. Reverse linked list in groups of K
+34. Reverse linked list between L & R
+35. Reverse bits of an integer
+
+---
+
+## 🧠 PATTERN-BASED REVERSE QUESTIONS
+
+(Common trick questions)
+
+36. Check if array becomes sorted after reversing a subarray
+37. Minimum reversals to balance parentheses
+38. Reverse prefix of array repeatedly
+39. Reverse suffix of array repeatedly
+40. Reverse array using XOR swap
+
+---
+
+## ⭐ MUST-DO REVERSE QUESTIONS (Top Priority)
+
+If time kam hai, yeh zaroor karo:
+
+* Reverse array (2 pointers)
+* Reverse between L & R
+* Reverse in groups of K
+* Rotate array using reverse
+* Reverse words in string
+* Reverse linked list
+* Reverse string without affecting special characters
+
+---
+
+## 📌 Interview Tip
+
+> “Reverse operation sirf swapping nahi hota — yeh rotation, grouping aur optimization ka base hota hai.”
+
+---
+
+Agar chaho to mai:
+
+* ✔ **Step-by-step solution** kisi bhi question ka
+* ✔ **Java / Python code**
+* ✔ **Dry run diagrams**
+* ✔ **30-day DSA reverse roadmap**
+
+bata sakta hoon 😊
+
+
+
+
+
+
+
+
+
+
+Great 👍
+Yeh rahe **coordinate / distance / slope–based DSA problems**, **easy → advanced**, jo **arrays, math, geometry, hashing, two pointers** sab cover karte hain.
+(Interviews + competitive coding dono ke liye important)
+
+---
+
+## 🟢 BASIC COORDINATE PROBLEMS
+
+(Formula understanding)
+
+1. Distance between two points
+2. Check if three points are collinear
+3. Slope of line between two points
+4. Check straight line (all points lie on one line)
+5. Midpoint of two points
+6. Area of triangle using coordinates
+7. Check if triangle is valid
+8. Check right-angled triangle using coordinates
+
+---
+
+## 🟡 INTERMEDIATE PROBLEMS
+
+(Logic + math)
+
+9. Find point closest to origin
+10. K closest points to origin
+11. Find farthest point from origin
+12. Count points inside a circle
+13. Check if point lies inside rectangle
+14. Check if two rectangles overlap
+15. Minimum distance between any two points
+16. Maximum distance between any two points
+17. Find center of circle given diameter endpoints
+
+---
+
+## 🟠 SLOPE & LINE BASED PROBLEMS
+
+(Very common in interviews)
+
+18. Check if points form a straight line (LeetCode 1232)
+19. Maximum number of points on a line
+20. Check parallel lines using slopes
+21. Check perpendicular lines
+22. Find equation of line from two points
+23. Find intersection point of two lines
+24. Count number of distinct slopes
+
+---
+
+## 🔴 ADVANCED / INTERVIEW LEVEL
+
+(Hashing + geometry)
+
+25. Max points on same line (hash map + slope)
+26. Boomerang points (LeetCode 447)
+27. Number of right triangles formed by points
+28. Count collinear triplets
+29. Check square formed by 4 points
+30. Check rectangle formed by 4 points
+31. Convex hull (basic idea)
+32. Closest pair of points
+33. Valid square (LeetCode 593)
+
+---
+
+## ⭐ MUST-DO COORDINATE QUESTIONS
+
+(High probability)
+
+* Check straight line
+* Distance between points
+* K closest points to origin
+* Max points on a line
+* Check square using coordinates
+* Boomerang points
+
+---
+
+## 📌 Important Formulas (Interview Ready)
+
+### Distance
+
+```
+d = √[(x2 - x1)² + (y2 - y1)²]
+```
+
+### Slope
+
+```
+m = (y2 - y1) / (x2 - x1)
+```
+
+⚠ Handle vertical line separately (`x2 == x1`)
+
+### Collinearity Check (Best Way)
+
+```
+(x2 - x1)(y3 - y1) == (y2 - y1)(x3 - x1)
+```
+
+✔ Avoids floating-point error
+
+---
+
+## 🧠 Interview Tip
+
+> “Slope comparison me floating point avoid karne ke liye hum cross multiplication use karte hain.”
+
+---
+
+Agar chaho to mai:
+
+* ✔ **Java solutions** (step-by-step)
+* ✔ **Dry run with diagram**
+* ✔ **LeetCode-style questions**
+* ✔ **Coordinate + hashing deep dive**
+
+bhi karwa sakta hoon 😊

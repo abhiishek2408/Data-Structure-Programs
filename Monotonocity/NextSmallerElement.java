@@ -1,28 +1,35 @@
+
+
 package Monotonocity;
 
-
-import java.util.*;
+import java.util.Arrays;
+import java.util.Stack;
 
 public class NextSmallerElement {
-    public static void main(String[] args) {
-        int arr[] = { 1, 3, 4, 2 };
-        // [3, 4, -1, -1]   //[-1, 3, 4, -1]
-        ArrayList<Integer> ans = new ArrayList<>();
-        Stack<Integer> st = new Stack<>();
-        for (int i = arr.length - 1; i >= 0; i--) {
-            while (!st.isEmpty() && st.peek() > arr[i]) {
-                st.pop();
-            }
+    public static int[] nextGreaterElement(int[] nums) {
+        int n = nums.length;
+        int[] result = new int[n]; 
+        Arrays.fill(result, -1);   
+        Stack<Integer> stack = new Stack<>(); 
 
-            if (st.isEmpty()) {
-                ans.add(-1);
-            } else {
-                ans.add(st.peek());
+        
+        for (int i = 0; i < n; i++) {
+            
+            while (!stack.isEmpty() && nums[i] < nums[stack.peek()]) { 
+                int index = stack.pop(); 
+                result[index] = nums[i]; 
             }
-
-            st.push(arr[i]);
+            stack.push(i); 
+            
         }
-        Collections.reverse(ans);
-        System.out.println(ans);
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {2, 1, 4, 3, 5};  //Output: [1, -1, 3, -1, -1]
+        int[] nge = nextGreaterElement(nums);
+
+        System.out.println("Next Greater Elements:");
+        System.out.println(Arrays.toString(nge));
     }
 }

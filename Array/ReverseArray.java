@@ -15,9 +15,26 @@ class ReverseArray {
         }
     }
 
+
+
+    public static void printArray(int[] arr) {
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+        System.out.println();
+    }
+
     public static void main(String[] args) {
         ReverseArray obj = new ReverseArray();
         int[] arr = {1, 2, 3, 4, 5};
         obj.reverse(arr);
+
+
+        System.out.println("Original Array:");
+        printArray(arr);
+
+
+        System.out.println("Reversed Array:");
+        printArray(arr);
     }
 }

@@ -3,10 +3,7 @@ import java.util.Map;
 
 public class MaxPairSum {
 
-    /**
-     * @param nums
-     * @return
-     */
+   
     public int maxSum(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         int maxSum = -1;

@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PivotIndex",
+      "request": "launch",
+      "mainClass": "TwoPointer.PivotIndex",
+      "projectName": "DSA-Programs_723c4b65"
+    },
+    {
+      "type": "java",
+      "name": "Print_the_Left_Element",
+      "request": "launch",
+      "mainClass": "Print_the_Left_Element",
+      "projectName": "MyPrograms_1d9bf2b0"
+    },
+    {
+      "type": "java",
       "name": "ContainValue",
       "request": "launch",
       "mainClass": "ContainValue",

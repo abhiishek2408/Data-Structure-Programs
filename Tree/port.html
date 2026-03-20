@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aarav Mehta - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+    }
+
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s ease forwards;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 25px 50px;
+      background-color: #141414;
+      border-bottom: .1px solid #2f2f2f;
+    }
+
+    .navbar a {
+      text-decoration: none;
+      color: #f0f0f0;
+      margin-left: 30px;
+      position: relative;
+      transition: color 0.3s ease;
+    }
+
+    .navbar a::after {
+      content: "";
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 0%;
+      height: 2px;
+      background: #0ef;
+      transition: 0.3s;
+    }
+
+    .navbar a:hover::after {
+      width: 100%;
+    }
+    .brand {
+      font-size: 20px;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      background-color: #0ef;
+      border-radius: 50%;
+    }
+
+    .role {
+      font-weight: 400;
+      color: #aaa;
+      font-size: 14px;
+    }
+
+
+    .container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* align top edges */
+  justify-content: center;
+  gap: 50px;
+  padding: 20px 60px; /* reduced top/bottom padding */
+  flex-wrap: wrap;
+}
+
+
+    .profile-img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      border: 6px solid #2f2f2f;
+      overflow: hidden;
+      flex-shrink: 0;
+      transition: transform 0.4s ease, box-shadow 0.3s ease;
+    }
+
+    .profile-img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 20px #0ef;
+    }
+
+    .profile-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .info {
+  max-width: 500px;
+  animation: fadeInUp 1s ease 0.3s forwards;
+  margin-top: -30px; /* Removed any default spacing */
+  padding-top: 1px; /* Add slight padding if needed */
+}
+
+
+    .info h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .info p {
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+      color: #ccc;
+    }
+
+    .info p strong {
+      color: #0ef;
+    }
+
+    .contact-info span {
+      display: block;
+      font-size: 13.5px;
+      margin: 5px 0;
+      color: #aaa;
+    }
+
+    .contact-info a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+
+    .info-buttons {
+      margin-top: 20px;
+    }
+
+    .info-buttons a {
+      display: inline-block;
+      margin-right: 10px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: 2px solid #0ef;
+      color: #0ef;
+      font-size: 14px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+
+    .info-buttons a:hover {
+      background: #0ef;
+      color: #121212;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px #0ef5;
+    }
+
+    .what-i-do {
+      background-color: #1a1a1a;
+      padding: 50px 80px;
+    }
+
+    .what-i-do h3 {
+      font-size: 22px;
+      border-left: 4px solid #0ef;
+      padding-left: 10px;
+      margin-bottom: 25px;
+    }
+
+    .skills {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+
+    .skill {
+      flex: 1 1 280px;
+      background: #222;
+      padding: 20px;
+      border-radius: 12px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .skill:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 15px #0ef3;
+    }
+
+    .skill h4 {
+      color: #fff;
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .skill p {
+      color: #aaa;
+      font-size: 13px;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        align-items: center;
+        padding: 30px;
+      }
+
+      .info {
+        text-align: center;
+      }
+
+      .info-buttons {
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="navbar">
+    <div class="brand">
+      <span class="dot"></span>
+      Aarav Mehta <span class="role">Full-Stack Developer</span>
+    </div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="container fade-in" id="about">
+    <div class="profile-img">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/009/273/280/small/concept-of-loneliness-and-disappointment-in-love-sad-man-sitting-element-of-the-picture-is-decorated-by-nasa-free-photo.jpg" alt="Aarav Mehta" />
+    </div>
+    <div class="info">
+      <h2>👋 Welcome to My Portfolio!</h2>
+      <p>
+        <strong>About Me:</strong> Hi, I’m Aarav Mehta, a B.Tech Computer Science student at Lovely Professional University.
+        I specialize in <strong>Full-Stack Development</strong>, <strong>AI</strong>, and <strong>Cloud Computing</strong>.
+      </p>
+      <p>
+        I focus on building scalable apps with beautiful UIs and efficient backends. Always learning, always evolving!
+      </p>
+
+      <div class="contact-info">
+        <span>📞 <strong>Phone:</strong> +91 98765 43210</span>
+        <span>📧 <strong>Email:</strong> <a href="mailto:aarav.mehta@example.com">aarav.mehta@example.com</a></span>
+        <span>🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/aarav-mehta" target="_blank">linkedin.com/in/aarav-mehta</a></span>
+        <span>🐱 <strong>GitHub:</strong> <a href="https://github.com/aaravmehta" target="_blank">github.com/aaravmehta</a></span>
+      </div>
+
+      <div class="info-buttons">
+        <a href="#">Download CV</a>
+        <a href="https://linkedin.com/in/aarav-mehta" target="_blank">My LinkedIn</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="what-i-do" id="skills">
+    <h3>🚀 What I Do</h3>
+    <div class="skills">
+      <div class="skill">
+        <h4>⚙️ Full-Stack Development</h4>
+        <p>
+          Build fast, secure, and scalable web apps using MERN stack, REST APIs, and modern frameworks.
+        </p>
+      </div>
+      <div class="skill">
+        <h4>🤖 Artificial Intelligence</h4>
+        <p>
+          Experienced with machine learning, NLP, computer vision, and smart systems using Python.
+        </p>
+      </div>
+      <div class="skill">
+        <h4>☁️ Cloud Computing</h4>
+        <p>
+          Deploy and scale apps on AWS, Firebase, Docker, and leverage serverless infrastructure.
+        </p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

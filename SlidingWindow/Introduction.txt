@@ -1,0 +1,166 @@
+Why Do We Use Sliding Window Technique?
+The Sliding Window technique is used to efficiently process subarrays or substrings 
+of fixed or variable size without recalculating everything repeatedly.
+
+It helps reduce time complexity from O(n²) to O(n) in many problems
+
+
+1️⃣ Problem Without Sliding Window
+
+Example:
+Find the maximum sum of a subarray of size k
+
+Array:
+
+[2, 1, 5, 1, 3, 2]
+k = 3
+Normal (Brute Force)
+
+We calculate every subarray sum:
+
+2+1+5 = 8
+1+5+1 = 7
+5+1+3 = 9
+1+3+2 = 6
+
+Time Complexity:
+
+O(n × k)
+
+Because every window sum is recalculated again.
+
+2️⃣ Sliding Window Idea
+
+Instead of recalculating the entire sum:
+Add the next element
+Remove the previous element
+So the window slides across the array.
+
+Example
+Array: [2, 1, 5, 1, 3, 2]
+k = 3
+
+Step 1
+Window: [2,1,5]
+Sum = 8
+
+Step 2 (slide window)
+Remove 2, add 1
+Window: [1,5,1]
+Sum = 8 - 2 + 1 = 7
+
+Step 3
+Remove 1, add 3
+Window: [5,1,3]
+Sum = 7 - 1 + 3 = 9
+
+Step 4
+Remove 5, add 2
+Window: [1,3,2]
+Sum = 9 - 5 + 2 = 6
+
+3️⃣ Why It Is Used
+✔ Reduces Time Complexity
+Brute Force → O(n²)
+Sliding Window → O(n)
+✔ Avoids Recalculation: Instead of computing every subarray again.
+
+✔ Efficient for Large Inputs
+Works best when dealing with:
+Subarrays
+Substrings
+Continuous segments
+
+
+
+5️⃣ Java Example
+public class SlidingWindowExample {
+
+    public static void main(String[] args) {
+
+        int[] arr = {2,1,5,1,3,2};
+        int k = 3;
+
+        int windowSum = 0;
+        int maxSum = 0;
+
+        for(int i=0;i<k;i++)
+            windowSum += arr[i];
+
+        maxSum = windowSum;
+
+        for(int i=k;i<arr.length;i++){
+
+            windowSum += arr[i];
+            windowSum -= arr[i-k];
+
+            maxSum = Math.max(maxSum, windowSum);
+        }
+
+        System.out.println(maxSum);
+    }
+}
+
+Output
+
+9
+Simple Interview Answer
+
+Why Sliding Window?
+
+Sliding window is used to efficiently process continuous subarrays or substrings 
+by reusing previous computations, reducing time complexity from O(n²) to O(n).
+
+
+4️⃣ Common Problems Using Sliding Window
+
+fixed window:
+1️⃣ Maximum sum subarray of size K
+2️⃣ Longest substring without repeating characters
+3️⃣ Minimum window substring
+4️⃣ Count occurrences of anagrams
+5️⃣ Longest substring with K unique characters
+
+variable window:
+2️⃣ Variable Size Sliding Window Problems
+
+(Window size changes dynamically)
+
+Longest Window Problems:
+Longest substring without repeating characters
+Longest substring with k unique characters
+Longest substring with at most k distinct characters
+Longest substring with same letters after replacement
+Longest repeating character replacement
+
+Sum Based:
+Smallest subarray with sum ≥ target
+Subarray product less than k
+Minimum length subarray with sum ≥ target
+
+
+3️⃣ Advanced Sliding Window Problems
+Subarray / Substring Counting:
+Count number of substrings with k distinct characters
+Count binary subarrays with sum k
+Number of nice subarrays
+
+Pattern Matching:
+Minimum window substring
+Permutation in string
+Find all anagrams in a string
+
+
+3️⃣ Sliding Window (Two Pointer Variant)
+
+Sliding window is actually a special type of two pointer where both pointers move forward.
+Maximum Sum Subarray of Size K
+Longest Substring Without Repeating Characters
+Minimum Window Substring
+Longest Repeating Character Replacement
+Permutation in String
+Find All Anagrams in a String
+Longest Subarray With Sum ≤ K
+Fruit Into Baskets
+Subarray Product Less Than K
+Maximum Consecutive Ones III
