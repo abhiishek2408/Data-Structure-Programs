@@ -1,5 +1,7 @@
 // NumWaterBottles.java
 // Problem: Water Bottles Exchange
+// Given numBottles full water bottles, you can exchange numExchange empty bottles for one full bottle.
+// Return the total number of water bottles you can drink.
 
 public class NumWaterBottles {
     /**
@@ -8,18 +10,24 @@ public class NumWaterBottles {
      * @param numExchange Number of empty bottles required to exchange for a full bottle
      * @return Total number of bottles drunk
      */
-    public int numWaterBottles(int numBottles, int numExchange) {
-        int totalDrunk = numBottles;
-        int empty = numBottles;
+    
+public int numWaterBottles(int numBottles, int numExchange) {
+    int total = 0;
+    int empty = 0;
 
-        while (empty >= numExchange) {
-            int newBottles = empty / numExchange;
-            totalDrunk += newBottles;
-            empty = newBottles + (empty % numExchange);
+    while (numBottles > 0) {
+        numBottles--;
+        total++;
+        empty++;
+
+        if (empty == numExchange) {
+            numBottles++;
+            empty = 0;
         }
-
-        return totalDrunk;
     }
+
+    return total;
+}
 
     // Example usage
     public static void main(String[] args) {
