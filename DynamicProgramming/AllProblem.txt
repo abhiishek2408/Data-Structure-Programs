@@ -1,0 +1,373 @@
+Here’s a **clean Level 1 (Basic DP) problem list** — perfect for building fundamentals step-by-step 👇
+
+---
+
+# 🟢 Level 1: Basic Dynamic Programming Problems
+
+These focus on:
+
+* Recursion → Memoization → Tabulation
+* 1D DP
+* Simple state transitions
+
+---
+
+## 🔹 1. Fibonacci Type (Most Basic)
+
+1. Fibonacci Number
+2. Climbing Stairs
+3. Min Cost Climbing Stairs
+4. Tribonacci Number
+
+👉 Goal: Understand **dp[i] depends on previous values**
+
+---
+
+## 🔹 2. Basic 1D DP (Simple Decisions)
+
+5. House Robber
+6. House Robber II
+7. Maximum Sum of Non-Adjacent Elements
+8. Delete and Earn
+
+👉 Concept:
+
+* Pick / Not Pick
+* Avoid adjacent elements
+
+---
+
+## 🔹 3. Basic Grid DP
+
+9. Unique Paths
+10. Unique Paths II (with obstacles)
+11. Minimum Path Sum
+
+👉 Concept:
+
+* Move directions (Right / Down)
+* 2D DP table
+
+---
+
+## 🔹 4. Subsequence Basics
+
+12. Subset Sum Problem
+13. Equal Partition
+14. Count Subsets with Given Sum
+
+👉 Concept:
+
+* Include / Exclude element
+* Boolean DP / Count DP
+
+---
+
+## 🔹 5. Knapsack (Very Important 🔥)
+
+15. 0/1 Knapsack
+16. Target Sum
+17. Partition Equal Subset Sum
+
+👉 Concept:
+
+* Weight vs Value decision
+* Foundation of many DP problems
+
+---
+
+## 🔹 6. String DP Basics
+
+18. Longest Common Subsequence (LCS)
+19. Longest Palindromic Subsequence
+20. Edit Distance
+
+👉 Concept:
+
+* Compare characters
+* 2D DP on strings
+
+---
+
+## 🔹 7. Simple Optimization DP
+
+21. Coin Change (Minimum coins)
+22. Coin Change 2 (Number of ways)
+23. Rod Cutting Problem
+
+👉 Concept:
+
+* Unbounded choices
+* Reuse elements
+
+
+
+* ✅ **Level 2 DP (Medium)**
+* ✅ OR solve any problem step-by-step (Hindi + dry run like you prefer)
+
+
+# 🟡 Level 2: Intermediate DP Problems
+
+Now we go beyond basics and learn:
+
+* State optimization
+* Multi-dimensional DP
+* Patterns (very important for interviews 🔥)
+
+---
+
+## 🔹 1. Advanced 1D DP
+
+1. Jump Game
+2. Jump Game II
+3. Maximum Product Subarray
+4. Best Time to Buy and Sell Stock I
+5. Best Time to Buy and Sell Stock II
+
+👉 Concept:
+
+* Greedy + DP mix
+* Maintaining running states (max/min)
+
+---
+
+## 🔹 2. LIS Pattern (VERY IMPORTANT 🔥)
+
+6. Longest Increasing Subsequence (LIS)
+7. Number of LIS
+8. Longest Bitonic Subsequence
+9. Russian Doll Envelopes
+
+👉 Concept:
+
+* Increasing subsequences
+* Binary search optimization (O(n log n))
+
+---
+
+## 🔹 3. Grid + Path Variations
+
+10. Triangle Minimum Path Sum
+11. Minimum Falling Path Sum
+12. Cherry Pickup (Hard but pattern-based)
+
+👉 Concept:
+
+* Multi-direction movement
+* 3D DP (in Cherry Pickup)
+
+---
+
+## 🔹 4. Subsequence DP (Core Pattern)
+
+13. Longest Common Substring
+14. Shortest Common Supersequence
+15. Distinct Subsequences
+16. Wildcard Matching
+
+👉 Concept:
+
+* Matching vs non-matching cases
+* String DP mastery
+
+---
+
+## 🔹 5. Knapsack Variations
+
+17. Unbounded Knapsack
+18. Rod Cutting (revisited)
+19. Coin Change variations
+20. Minimum subset sum difference
+
+👉 Concept:
+
+* Reuse elements vs not reuse
+* Optimization problems
+
+---
+
+## 🔹 6. Partition DP (🔥 Interview Favorite)
+
+21. Palindrome Partitioning II
+22. Matrix Chain Multiplication (MCM)
+23. Burst Balloons
+
+👉 Concept:
+
+* Divide problem into partitions
+* Try all possible splits
+
+---
+
+## 🔹 7. DP on Stocks (Full Pattern)
+
+24. Buy & Sell Stock III
+25. Buy & Sell Stock IV
+26. Buy & Sell with Cooldown
+27. Buy & Sell with Transaction Fee
+
+👉 Concept:
+
+* State machine DP
+* Buy/Sell/Skip transitions
+
+---
+
+# 🧠 Must-Know Patterns from Level 2
+
+You should recognize these instantly:
+
+* LIS Pattern
+* Include / Exclude
+* Partition DP
+* String Matching DP
+* State Machine DP (stocks)
+
+---
+
+# ⚡ Recommended Order
+
+Follow this sequence:
+
+1. Jump Game → Stock I, II
+2. LIS (very important)
+3. Grid variations
+4. String DP (LCS extensions)
+5. Knapsack variations
+6. Partition DP
+7. Stock DP advanced
+
+---
+
+ **final level** 
+
+# 🔴 Level 3: Advanced / Hard DP
+
+यह level interview + competitive programming का **real game changer** है 💯
+
+---
+
+## 🔹 1. DP on Trees 🌳 (VERY IMPORTANT)
+
+1. Diameter of Tree
+2. Maximum Path Sum in Binary Tree
+3. House Robber III
+4. Binary Tree Cameras
+
+👉 Concept:
+
+* हर node पर decision
+* Parent–child dependency
+* Tree traversal + DP
+
+---
+
+## 🔹 2. Bitmask DP 🧠 (Advanced)
+
+5. Traveling Salesman Problem (TSP)
+6. Assignment Problem
+7. Minimum Cost to Connect Cities
+
+👉 Concept:
+
+* Subset representation using bits
+* State = (mask, position)
+* Complexity ≈ O(2ⁿ * n)
+
+---
+
+## 🔹 3. Digit DP 🔢 (Very Powerful)
+
+8. Count Numbers with Given Digits
+9. Numbers with Unique Digits
+10. Count numbers in a range (with constraints)
+
+👉 Concept:
+
+* Digit by digit processing
+* Tight bound concept
+* State = (index, tight, sum/condition)
+
+---
+
+## 🔹 4. DP on Graphs 🌐
+
+11. Shortest Path with DP (DAG DP)
+12. Longest Path in DAG
+13. DP + BFS/DFS problems
+
+👉 Concept:
+
+* Topological sort
+* Memoization on graph
+
+---
+
+## 🔹 5. Interval DP (Partition DP Advanced 🔥)
+
+14. Matrix Chain Multiplication (revisit)
+15. Burst Balloons
+16. Minimum Cost to Cut Stick
+
+👉 Concept:
+
+* Try all partitions
+* dp[i][j] → answer for interval
+
+---
+
+## 🔹 6. DP + Game Theory 🎮
+
+17. Stone Game
+18. Predict the Winner
+19. Nim Game variations
+
+👉 Concept:
+
+* Minimax DP
+* Opponent optimal play
+
+---
+
+## 🔹 7. Advanced String DP
+
+20. Regular Expression Matching
+21. Scramble String
+22. Interleaving String
+
+👉 Concept:
+
+* Complex transitions
+* Multiple dimensions
+
+
+
+
+
+
+//698. Partition to K Equal Sum Subsets
+Medium
+Topics
+premium lock icon
+Companies
+Hint
+Given an integer array nums and an integer k, return true if it is possible to divide this array into k non-empty subsets whose sums are all equal.
+
+ 
+
+Example 1:
+
+Input: nums = [4,3,2,3,5,2,1], k = 4
+Output: true
+Explanation: It is possible to divide it into 4 subsets (5), (1, 4), (2,3), (2,3) with equal sums.
+Example 2:
+
+Input: nums = [1,2,3,4], k = 3
+Output: false
+ 
+
+Constraints:
+
+1 <= k <= nums.length <= 16
+1 <= nums[i] <= 104
+The frequency of each element is in the range [1, 4].

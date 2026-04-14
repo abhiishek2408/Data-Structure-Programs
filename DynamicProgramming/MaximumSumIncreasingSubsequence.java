@@ -1,8 +1,9 @@
 package DynamicProgramming;
 
+
 import java.util.Scanner;
 
-class MaximumSumIncreasingSubsequenceDP {
+class MaximumSumIncreasingSubsequence {
     public int maxSumIS(int[] arr, int n) {
         int[] dp = new int[n];
         int maxSum = 0;
@@ -40,7 +41,7 @@ class MaximumSumIncreasingSubsequenceDP {
             arr[i] = scanner.nextInt();
         }
 
-        MaximumSumIncreasingSubsequenceDP solution = new MaximumSumIncreasingSubsequenceDP();
+        MaximumSumIncreasingSubsequence solution = new MaximumSumIncreasingSubsequence();
         int result = solution.maxSumIS(arr, n);
         System.out.println("Maximum Sum Increasing Subsequence: " + result);
 
