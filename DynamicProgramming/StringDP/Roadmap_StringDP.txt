@@ -1,0 +1,12 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_LCSRecursion.java                                              | Intermediate (LCS)         |
+| 02    | _02_LCSMemoization.java                                            | Intermediate (LCS)         |
+| 03    | _03_LCSTabulation.java                                             | Intermediate (LCS)         |
+| 04    | _04_LongestCommonSubsequence.java                                  | Intermediate (LCS)         |
+| 05    | _05_LongestPalindromicSubsequence.java                             | Intermediate (LCS Var)     |
+| 06    | _06_ShortestCommonSuperSubsequence.java                            | Intermediate (LCS Var)     |
+| 07    | _07_EditDistanceRecursion.java                                     | Advanced (Edit Dist)       |
+| 08    | _08_EditDistanceDP.java                                            | Advanced (Edit Dist)       |
++-------+--------------------------------------------------------------------+----------------------------+

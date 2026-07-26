@@ -1,0 +1,34 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_Fibonacci.java                                                 | Basics (1D DP)             |
+| 02    | _02_TribonacciNumber.java                                          | Basics (1D DP)             |
+| 03    | _03_ClimbingStair.java                                             | Basics (1D DP)             |
+| 04    | _04_ClimbingStairII.java                                           | Basics (1D DP)             |
+| 05    | _05_ClimbingStairMinCost.java                                      | Basics (1D DP)             |
+| 06    | _06_FrogJumpEasy.java                                              | Basics (1D DP)             |
+| 07    | _07_FrogJumpMedium.java                                            | Basics (1D DP)             |
++-------+--------------------------------------------------------------------+----------------------------+
+| 08    | _08_HouseRobber.java                                               | Intermediate (Decision)    |
+| 09    | _09_HouseRobberII.java                                             | Intermediate (Decision)    |
+| 10    | _10_MaxSumNonAdjacent.java                                         | Intermediate (Decision)    |
+| 11    | _11_MaxSumNonAdjacentDP.java                                       | Intermediate (Decision)    |
+| 12    | _12_MaximumSumNonAdjacent.java                                     | Intermediate (Decision)    |
++-------+--------------------------------------------------------------------+----------------------------+
+| 13    | _13_MinimumJumps.java                                              | Intermediate (Jump)        |
+| 14    | _14_MinimumJumpsToEnd.java                                         | Intermediate (Jump)        |
+| 15    | _15_FrogJumpHard.java                                              | Intermediate (Jump)        |
+| 16    | _16_DeleteAndEarn.java                                             | Intermediate (Decision)    |
+| 17    | _17_DecodeWays.java                                                | Intermediate (String/1D)   |
+| 18    | _18_MaximumSubarray.java                                           | Intermediate (Kadane's)    |
+| 19    | _19_CountingBits.java                                              | Basics (Bit DP)            |
++-------+--------------------------------------------------------------------+----------------------------+
+| 20    | _20_PaintHouse.java                                                | Intermediate (Decision)    |
+| 21    | _21_PaintFence.java                                                | Intermediate (Counting)    |
+| 22    | _22_MaxProductSubarray.java                                        | Intermediate (State Track) |
+| 23    | _23_JumpGame.java                                                  | Intermediate (Greedy+DP)   |
+| 24    | _24_JumpGameII.java                                                | Intermediate (Greedy+DP)   |
+| 25    | _25_BuyAndSellStockI.java                                          | Intermediate (Greedy/DP)   |
+| 26    | _26_BuyAndSellStockII.java                                         | Intermediate (State DP)    |
+| 27    | _27_WiggleSubsequence.java                                         | Intermediate (State Track) |
++-------+--------------------------------------------------------------------+----------------------------+

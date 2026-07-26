@@ -1,0 +1,41 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | CountDigits.java                                                   | Basics (Digits)          |
+| 02    | SumOfDigits.java                                                   | Basics (Digits)          |
+| 03    | AddDigit.java                                                      | Basics (Digits)          |
+| 04    | ProductOfTwoDigitNumbers.java                                      | Basics (Digits)          |
+| 05    | RecursiveDigitSum.java                                             | Basics (Digits)          |
+| 06    | Factorial.java                                                     | Basics (Intro)           |
+| 07    | Fibonacci.java                                                     | Basics (Intro)           |
+| 08    | ArithmeticSeries.java                                              | Basics (Math)            |
+| 09    | AverageValueOfEvenNumber_DivByThree.java                          | Basics (Math)            |
++-------+--------------------------------------------------------------------+--------------------------+
+| 10    | CheckPrime.java                                                    | Intermediate (Primes)    |
+| 11    | PrimeRange.java                                                    | Intermediate (Primes)    |
+| 12    | SieveOfEratosthenes.java                                           | Intermediate (Primes)    |
+| 13    | NthPrime.java                                                      | Intermediate (Primes)    |
+| 14    | DistinctPrimeFactorOfProduct.java                                 | Intermediate (Primes)    |
+| 15    | Divisors.java                                                      | Intermediate (Divisors)  |
+| 16    | ClosestDivisor.java                                                | Intermediate (Divisors)  |
+| 17    | ThreeDivisor.java                                                  | Intermediate (Divisors)  |
+| 18    | LCMandHCF.java                                                     | Intermediate (Math)      |
+| 19    | NumberOfCommonFactor.java                                          | Intermediate (Math)      |
+| 20    | FactorialTrailingZeros.java                                        | Intermediate (Math)      |
+| 21    | CountTrailingZeros.java                                            | Intermediate (Math)      |
++-------+--------------------------------------------------------------------+--------------------------+
+| 22    | HappyNumber.java                                                   | Advanced (Logic)         |
+| 23    | PlusOne.java                                                       | Advanced (Logic)         |
+| 24    | MissingNumber.java                                                 | Advanced (Logic)         |
+| 25    | NonRepeatingElement.java                                           | Advanced (Logic)         |
+| 26    | SecondLargestElement.java                                          | Advanced (Logic)         |
+| 27    | SecondMinNumber.java                                               | Advanced (Logic)         |
+| 28    | NumWaterBottles.java                                               | Advanced (Simulation)    |
+| 29    | CanPlaceFlowers.java                                               | Advanced (Greedy)        |
+| 30    | CandyDistribution.java                                             | Advanced (Greedy)        |
+| 31    | GasStationProblem.java                                             | Advanced (Greedy)        |
+| 32    | MinMovesEqualArrayElements.java                                    | Advanced (Math)          |
+| 33    | MinimizeSet.java                                                   | Advanced (Math)          |
+| 34    | CountBeautifulPairs.java                                           | Advanced (Math)          |
+| 35    | ContainerWithMostWater.java                                        | Advanced (Two Pointers)  |
++-------+--------------------------------------------------------------------+--------------------------+

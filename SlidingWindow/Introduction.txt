@@ -116,10 +116,11 @@ by reusing previous computations, reducing time complexity from O(n²) to O(n).
 
 fixed window:
 1️⃣ Maximum sum subarray of size K
-2️⃣ Longest substring without repeating characters
-3️⃣ Minimum window substring
-4️⃣ Count occurrences of anagrams
-5️⃣ Longest substring with K unique characters
+2️⃣ First negative integer in every window of size K
+3️⃣ Count occurrences of anagrams
+4️⃣ Maximum number of vowels in a substring of given length
+5️⃣ Find all substrings of size K that are palindromes
+6️⃣ Maximum points you can obtain from cards (Circular window)
 
 variable window:
 2️⃣ Variable Size Sliding Window Problems
@@ -132,11 +133,13 @@ Longest substring with k unique characters
 Longest substring with at most k distinct characters
 Longest substring with same letters after replacement
 Longest repeating character replacement
+Maximize the confusion of an exam (LeetCode 2024)
 
 Sum Based:
 Smallest subarray with sum ≥ target
 Subarray product less than k
 Minimum length subarray with sum ≥ target
+Longest subarray of 1's after deleting one element
 
 
 3️⃣ Advanced Sliding Window Problems
@@ -144,11 +147,14 @@ Subarray / Substring Counting:
 Count number of substrings with k distinct characters
 Count binary subarrays with sum k
 Number of nice subarrays
+Number of substrings containing all three characters (LeetCode 1358)
 
 Pattern Matching:
 Minimum window substring
 Permutation in string
 Find all anagrams in a string
+Sliding Window Maximum (De-queue approach)
+Subarrays with K Different Integers (Hard)
 
 
 3️⃣ Sliding Window (Two Pointer Variant)

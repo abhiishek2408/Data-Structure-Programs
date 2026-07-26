@@ -1,0 +1,14 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | SubsetCheckBruteForce.java                                         | Basics (Logic)           |
+| 02    | SubsetCheckHashSet.java                                            | Basics (Hashing)         |
+| 03    | SubsetBinaryCheckSearch.java                                       | Basics (Binary Search)   |
++-------+--------------------------------------------------------------------+--------------------------+
+| 04    | SubsetsRecursive.java                                              | Intermediate (Recursion) |
+| 05    | SubsetsIterative.java                                              | Intermediate (Iterative) |
+| 06    | SubsetsII.java                                                     | Intermediate (Handling Dup)|
++-------+--------------------------------------------------------------------+--------------------------+
+| 07    | SubsetSumCount.java                                                | Advanced (Recursion)     |
+| 08    | SubsetSumDP.java                                                   | Advanced (DP)            |
++-------+--------------------------------------------------------------------+--------------------------+

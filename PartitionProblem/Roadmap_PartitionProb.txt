@@ -1,0 +1,14 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | LomutoPartition.java                                               | Basics (Standard)        |
+| 02    | HoarePartition.java                                                | Basics (Standard)        |
+| 03    | PivotElement.java                                                  | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 04    | DivideArrayIntoEqualPairs.java                                     | Intermediate (Hashing)   |
+| 05    | SegregateEvenOdd.java                                              | Intermediate (Two Point)  |
+| 06    | MoveAllNegativesToOneSide.java                                     | Intermediate (Two Point)  |
++-------+--------------------------------------------------------------------+--------------------------+
+| 07    | PartitionArrayAroundPivot.java                                     | Advanced (Partition)     |
+| 08    | CountPartitionsWithEvenSumDifference.java                          | Advanced (Math/Logic)    |
++-------+--------------------------------------------------------------------+--------------------------+

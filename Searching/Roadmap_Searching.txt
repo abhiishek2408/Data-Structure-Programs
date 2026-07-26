@@ -1,0 +1,13 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | LinearSearch.java                                                  | Basics (Easy)            |
+| 02    | LinearSearchList.java                                              | Basics (Easy)            |
+| 03    | StreamSearchList.java                                              | Basics (Easy)            |
+| 04    | LargestElement.java                                                | Basics (Easy)            |
+| 05    | SecondLargest.java                                                 | Basics (Easy)            |
++-------+--------------------------------------------------------------------+--------------------------+
+| 06    | BinarySearch.java                                                  | Intermediate (Standard)  |
+| 07    | BinarySearchList.java                                              | Intermediate (Standard)  |
+| 08    | Exclude_Two_Largest.java                                           | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+

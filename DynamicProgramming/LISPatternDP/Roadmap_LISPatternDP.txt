@@ -1,0 +1,17 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_LISDP.java                                                     | Intermediate (LIS)         |
+| 02    | _02_LISBinarySearch.java                                           | Intermediate (LIS)         |
+| 03    | _03_MaximumSumIncreasingSubsequence.java                           | Intermediate (LIS Var)     |
+| 04    | _04_LongestChainOfPairDP.java                                      | Intermediate (LIS Var)     |
+| 05    | _05_LongestChainOfPairGreedyApproach.java                          | Intermediate (LIS Var)     |
+| 06    | _06_BuildingBridge.java                                            | Advanced (LIS Var)         |
+| 07    | _07_MaximumBitonicSubsequence.java                                 | Advanced (LIS Var)         |
+| 08    | _08_LDSDP.java                                                     | Intermediate (LDS)         |
+| 09    | _09_LDSBinarySearch.java                                           | Intermediate (LDS)         |
+| 10    | _10_LongestContigousIS.java                                        | Intermediate (LIS Var)     |
+| 11    | _11_PrintAllIncreasingSubsequence.java                             | Advanced (LIS Var)         |
+| 12    | _12_MinimumDeletionsToSortDP.java                                  | Intermediate (LIS Var)     |
+| 13    | _13_MinimumDeletionsToSortBinarySearch.java                        | Intermediate (LIS Var)     |
++-------+--------------------------------------------------------------------+----------------------------+

@@ -1,0 +1,12 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | HashSet.java                                                       | Basics (Standard)        |
+| 02    | FrequencyCounter.java                                              | Basics (Logic)           |
+| 03    | ReverseArray.java                                                  | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 04    | IntersectionOfArray.java                                           | Intermediate (Logic)     |
+| 05    | UnionOfArray.java                                                  | Intermediate (Logic)     |
+| 06    | DifferenceOfArray.java                                             | Intermediate (Logic)     |
+| 07    | SlidingWindow.java                                                 | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+

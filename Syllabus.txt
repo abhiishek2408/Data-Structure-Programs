@@ -17,6 +17,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 8. Swap two numbers using pointers logic
 9. Copy array using pointers logic
 10. Count pairs with given sum (brute → optimized)
+11. Find the peak element in an array
+12. Check if array is sorted and rotated
+13. Sum of elements in a range using pointers
 
 ---
 
@@ -32,6 +35,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 18. Union of two sorted arrays
 19. Square of sorted array (return sorted squares)
 20. Find common elements in 3 sorted arrays
+21. Sort array by parity (Even followed by Odd)
+22. Valid Palindrome II (Delete at most one character)
+23. Minimum swaps to bring all K elements together
 
 ---
 
@@ -46,6 +52,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 25. Count subarrays with given sum (optimized)
 26. Fruits into baskets
 27. Longest subarray of 1s after flipping K zeros
+28. Maximum number of vowels in a substring of given length
+29. Longest continuous subarray with absolute diff ≤ limit
+30. Count subarrays with at most K distinct integers
 
 ---
 
@@ -62,6 +71,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 34. Minimum number of boats to save people
 35. Partition array into 3 parts
 36. Sort colors (Dutch National Flag)
+37. Bag of Tokens (Greedy + Two Pointers)
+38. Push Dominoes
+39. Minimize Maximum Pair Sum in Array
 
 ---
 
@@ -73,6 +85,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 40. Reverse words in a string
 41. Reverse string without affecting special characters
 42. Rotate string using two pointers
+43. Reverse string II (reverse alternate k blocks)
+44. Check if two strings are rotations of each other
+45. Reverse all words in a sentence but not the sentence itself
 
 ---
 
@@ -86,6 +101,9 @@ Ab **POINTER / TWO-POINTER related DSA problems** ki **clean, interview-oriented
 48. Palindrome linked list
 49. Merge two sorted linked lists
 50. Intersection point of linked lists
+51. Rotate List (by k places)
+52. Add Two Numbers represented by LL
+53. Remove Duplicates from Unsorted LL
 
 ---
 
@@ -102,6 +120,9 @@ If interview near hai, **ye pakke karo**:
 * Palindrome check
 * Middle of linked list
 * Reverse linked list
+* Sort Colors (Dutch Flag)
+* Move Zeroes
+* Next Permutation
 
 
 
@@ -132,6 +153,9 @@ Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur p
 8. Reverse each word in a sentence
 9. Reverse a number
 10. Reverse a linked list (iterative)
+11. Reverse String II (LeetCode 541)
+12. Reverse Bits of an Unsigned Integer
+13. Reverse a Queue using Recursion
 
 ---
 
@@ -149,6 +173,9 @@ Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur p
 18. Reverse array until a given index
 19. Reverse array after a given index
 20. Reverse characters in-place without using extra space
+21. Reverse Only Letters (LeetCode 917)
+22. Reverse Vowels of a String (LeetCode 345)
+23. Reverse First K Elements of a Queue
 
 ---
 
@@ -161,6 +188,9 @@ Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur p
 23. Rotate array between L & R using reverse
 24. Rotate string using reverse
 25. Circular rotation using reverse technique
+26. Check if array is sorted and rotated
+27. Find minimum in rotated sorted array
+28. Search in rotated sorted array
 
 ---
 
@@ -178,6 +208,9 @@ Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur p
 33. Reverse linked list in groups of K
 34. Reverse linked list between L & R
 35. Reverse bits of an integer
+36. Minimum swaps to sort an array
+37. Reverse Subarray to maximize subarray sum
+38. Reversing elements in a stack
 
 ---
 
@@ -190,6 +223,9 @@ Yeh rahe **REVERSE based DSA questions**, **easy → hard**, jo interviews aur p
 38. Reverse prefix of array repeatedly
 39. Reverse suffix of array repeatedly
 40. Reverse array using XOR swap
+41. Determine if String Halves Are Alike
+42. Reverse Prefix of Word (LeetCode 2000)
+43. Find if reverse of a string exists in array
 
 ---
 
@@ -249,6 +285,9 @@ Yeh rahe **coordinate / distance / slope–based DSA problems**, **easy → adva
 6. Area of triangle using coordinates
 7. Check if triangle is valid
 8. Check right-angled triangle using coordinates
+9. Find the quadrant of a point (x, y)
+10. Perimeter of a polygon given coordinates
+11. Area of a circle given center and a point on circumference
 
 ---
 
@@ -265,6 +304,9 @@ Yeh rahe **coordinate / distance / slope–based DSA problems**, **easy → adva
 15. Minimum distance between any two points
 16. Maximum distance between any two points
 17. Find center of circle given diameter endpoints
+18. Check if three points form an acute, obtuse or right triangle
+19. Point inside polygon (Ray casting basics)
+20. Closest point on a line to a given point
 
 ---
 
@@ -279,6 +321,9 @@ Yeh rahe **coordinate / distance / slope–based DSA problems**, **easy → adva
 22. Find equation of line from two points
 23. Find intersection point of two lines
 24. Count number of distinct slopes
+25. Check if two lines are parallel or perpendicular
+26. Find the equation of a perpendicular bisector
+27. Angle between two lines using slopes
 
 ---
 
@@ -295,6 +340,9 @@ Yeh rahe **coordinate / distance / slope–based DSA problems**, **easy → adva
 31. Convex hull (basic idea)
 32. Closest pair of points
 33. Valid square (LeetCode 593)
+34. Largest Rectangle in a Grid with Obstacles
+35. Line Sweep Algorithm Basics (Overlap check)
+36. Area of Intersection of two rectangles
 
 ---
 

@@ -1,0 +1,45 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | Node.java                                                          | Basics (Structure)       |
+| 02    | BTConstruction.java                                                | Basics (Construction)    |
+| 03    | _BinaryTreeTraversal.java                                          | Basics (Traversals)      |
+| 04    | _HeightBinaryTree.java                                             | Basics (Properties)      |
+| 05    | _SizeBinaryTree.java                                               | Basics (Properties)      |
+| 06    | _MaximumNodeBinaryTree.java                                        | Basics (Properties)      |
+| 07    | _MinimumNodeBinaryTree.java                                        | Basics (Properties)      |
+| 08    | _CheckBalanceBinaryTree.java                                       | Basics (Properties)      |
+| 09    | MinDepth.java                                                      | Basics (Properties)      |
+| 10    | PrintKLevelNode.java                                               | Basics (Traversal)       |
++-------+--------------------------------------------------------------------+--------------------------+
+| 11    | _LavelOrderTraversal.java                                          | Intermediate (BFS)       |
+| 12    | _LavelOrderBottomToTop.java                                        | Intermediate (BFS)       |
+| 13    | _AverageOfLevels.java                                              | Intermediate (BFS)       |
+| 14    | _MaxLevelSum.java                                                  | Intermediate (BFS)       |
+| 15    | _LeftViewBinaryTree.java                                           | Intermediate (Views)     |
+| 16    | _RightViewBinaryTree.java                                          | Intermediate (Views)     |
+| 17    | _TopViewBinaryTree.java                                            | Intermediate (Views)     |
+| 18    | _BottomViewBinaryTree.java                                         | Intermediate (Views)     |
+| 19    | MaxWidth.java                                                      | Intermediate (BFS)       |
+| 20    | maxWithdBinaryTree.java                                            | Intermediate (BFS)       |
+| 21    | _DiameterOfBinaryTree.java                                         | Intermediate (Logic)     |
+| 22    | _SymmetricTree.java                                                | Intermediate (Logic)     |
+| 23    | Invert.java                                                        | Intermediate (Logic)     |
+| 24    | _BinaryTreePaths.java                                              | Intermediate (DFS)       |
+| 25    | __CheckPathSumEqualToTarget.java                                   | Intermediate (DFS)       |
+| 26    | ChildrenSumProperty.java                                           | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 27    | BTSpiralFormByLevelOrder.java                                      | Advanced (BFS Variations)|
+| 28    | _ZigZagLevelOrderTraversal.java                                    | Advanced (BFS Variations)|
+| 29    | LowestCommonAncestor.java                                          | Advanced (Logic)         |
+| 30    | BurnTree.java                                                      | Advanced (Hard Logic)    |
+| 31    | ConstructBTFromInPreOrder.java                                     | Advanced (Construction)  |
+| 32    | _BinaryTreeToDoublyLinkedList.java                                 | Advanced (Conversion)    |
+| 33    | BinaryTreeToSinglyLinkedList.java                                  | Advanced (Conversion)    |
+| 34    | _MaxPathSum.java                                                   | Advanced (Hard DFS)      |
+| 35    | __FindAllPathSumEqualToTarget.java                                 | Advanced (Hard DFS)      |
+| 36    | _CheckCompleteBinaryTree.java                                      | Advanced (BFS)           |
+| 37    | _CheckForBST.java                                                  | Advanced (Logic)         |
+| 38    | CountGoodNode.java                                                 | Advanced (DFS)           |
+| 39    | _SecondMinimumNode.java                                            | Advanced (Logic)         |
++-------+--------------------------------------------------------------------+--------------------------+

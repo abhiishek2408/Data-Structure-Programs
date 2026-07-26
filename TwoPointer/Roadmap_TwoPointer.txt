@@ -1,0 +1,35 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | ReverseArray.java                                                  | Basics (Simple Swap)     |
+| 02    | Palindrome.java                                                    | Basics (Check)           |
+| 03    | ValidPalindrome.java                                               | Basics (Check)           |
+| 04    | RemoveElement.java                                                 | Basics (Modification)    |
+| 05    | RemoveDublicate.java                                               | Basics (Modification)    |
+| 06    | RemoveDuplicatesII.java                                            | Basics (Modification)    |
+| 07    | SquareOfArray.java                                                 | Basics (Math/Two Point)  |
+| 08    | MoveAllZeroes.java                                                 | Basics (Logic)           |
+| 09    | SkipDuplicateExample.java                                          | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 10    | TwoSum.java                                                        | Intermediate (Standard)  |
+| 11    | PairWithTargetSum.java                                             | Intermediate (Standard)  |
+| 12    | TwoSumLessThanK.java                                               | Intermediate (Standard)  |
+| 13    | PairWithGivenDifference.java                                       | Intermediate (Logic)     |
+| 14    | Sort01.java                                                        | Intermediate (Logic)     |
+| 15    | MoveNegativesLeft.java                                             | Intermediate (Logic)     |
+| 16    | SegregateEvenOddNumbers.java                                       | Intermediate (Logic)     |
+| 17    | RotateArrayInPlace.java                                            | Intermediate (Logic)     |
+| 18    | MergeTwoArray.java                                                 | Intermediate (Merging)   |
+| 19    | IntersectionOfArray.java                                           | Intermediate (Merging)   |
++-------+--------------------------------------------------------------------+--------------------------+
+| 20    | DutchNationalFlag.java                                             | Advanced (3-way Partition)|
+| 21    | PartitionIndex.java                                                | Advanced (Partition)     |
+| 22    | PartitionArrayAroundPivot.java                                     | Advanced (Partition)     |
+| 23    | PivotIndex.java                                                    | Advanced (Partition)     |
+| 24    | ThreeSum.java                                                      | Advanced (Hard Logic)    |
+| 25    | ThreeSumClosest.java                                               | Advanced (Hard Logic)    |
+| 26    | ContainerWithMostWater.java                                        | Advanced (Optimization)  |
+| 27    | TrappingRainWater.java                                             | Advanced (Optimization)  |
+| 28    | BoatsToSavePeople.java                                             | Two Pointer (Sorting)    |
+| 29    | PartitionArrayIntoThreeParts.java                                  | Two Pointer (Logic)      |
++-------+--------------------------------------------------------------------+--------------------------+

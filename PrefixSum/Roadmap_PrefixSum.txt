@@ -1,0 +1,31 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | RangeSum.java                                                      | Basics (Standard)        |
+| 02    | LeftRightDifference.java                                           | Basics (Logic)           |
+| 03    | PivotIndex.java                                                    | Basics (Logic)           |
+| 04    | ProductExceptSelf.java                                             | Basics (Optimization)    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 05    | SubarrayZeroSum.java                                               | Intermediate (Hashing)   |
+| 06    | SubArraySumK.java                                                  | Intermediate (Hashing)   |
+| 07    | CountSubarraysSumK.java                                            | Intermediate (Hashing)   |
+| 08    | MaxSumSubarrayK.java                                               | Intermediate (Hashing)   |
+| 10    | LongestSubarraySumK.java                                           | Intermediate (Hashing)   |
+| 11    | MaxAverageSubarray.java                                            | Intermediate (Logic)     |
+| 12    | MinSubarrayLength.java                                             | Intermediate (Logic)     |
+| 13    | BinarySubarraySum.java                                             | Intermediate (Logic)     |
+| 14    | NiceSubarrays.java                                                 | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 15    | ContinuousSubarraySum.java                                         | Advanced (Math)          |
+| 16    | CountSubarraysDivisibleByK.java                                    | Advanced (Math)          |
+| 17    | SubarraysDivisibleByK.java                                         | Advanced (Math)          |
+| 18    | CountEqual01.java                                                  | Advanced (Hashing)       |
+| 19    | LargestEqual01.java                                                | Advanced (Hashing)       |
+| 20    | MaxTwoSubarrays.java                                               | Advanced (Logic)         |
+| 21    | NumMatrix.java                                                     | Advanced (2D Prefix)     |
+| 22    | CorporateFlightBookings2D.java                                     | Advanced (Difference Arr)|
+| 23    | ShiftingLetters2D.java                                             | Advanced (Difference Arr)|
+| 24    | RangeAddition2D.java                                               | Advanced (Difference Arr)|
+| 25    | CarPooling2D.java                                                  | Advanced (Difference Arr)|
+| 26    | MaximumPopulationYear2D.java                                       | Advanced (Difference Arr)|
++-------+--------------------------------------------------------------------+--------------------------+

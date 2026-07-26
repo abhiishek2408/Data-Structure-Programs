@@ -1,0 +1,10 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_HouseRobberIII.java                                            | Intermediate (Tree DP)     |
+| 02    | _02_DiameterOfBinaryTree.java                                      | Basics (Tree DP)           |
+| 03    | _03_BinaryTreeMaximumPathSum.java                                  | Advanced (Tree DP)         |
+| 04    | _04_UniqueBinarySearchTrees.java                                   | Intermediate (Tree Count)  |
+| 05    | _05_BinaryTreeCameras.java                                         | Advanced (Tree State DP)   |
+| 06    | _06_MaxProductSplittedBinaryTree.java                              | Intermediate (Tree DFS)    |
++-------+--------------------------------------------------------------------+----------------------------+

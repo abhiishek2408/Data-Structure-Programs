@@ -1,0 +1,7 @@
+input()
+values = list(map(int, input().split()))
+best = current = values[0]
+for value in values[1:]:
+    current = max(value, current + value)
+    best = max(best, current)
+print(best)

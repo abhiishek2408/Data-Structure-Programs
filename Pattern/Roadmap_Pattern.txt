@@ -1,0 +1,8 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | SquareStarPattern.java                                             | Basics (Pattern)         |
+| 02    | RectangleStarPattern.java                                          | Basics (Pattern)         |
+| 03    | TriangleStarPattern.java                                           | Basics (Pattern)         |
+| 04    | PyramidStarPattern.java                                            | Basics (Pattern)         |
++-------+--------------------------------------------------------------------+--------------------------+

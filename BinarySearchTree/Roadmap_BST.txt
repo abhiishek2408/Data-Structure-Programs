@@ -1,0 +1,21 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | SearchAndInsertion.java                                            | Basics (Intro)           |
+| 02    | InsertionAndDeletionBST.java                                       | Basics (Standard)        |
+| 03    | CeilValue.java                                                     | Basics (Logic)           |
+| 04    | FloorValue.java                                                    | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 05    | ArrayToBST.java                                                    | Intermediate (Construction)|
+| 06    | BSTPairSum.java                                                    | Intermediate (Two Sum)   |
+| 07    | BSTIterator.java                                                   | Intermediate (Traversal) |
+| 08    | CeilingOnLeftSide.java                                             | Intermediate (Logic)     |
+| 09    | VerticalSum.java                                                   | Intermediate (View)      |
+| 10    | VerticalTraversal.java                                             | Intermediate (Traversal) |
+| 11    | TopViewBinaryTree.java                                             | Intermediate (View)      |
+| 12    | BottomViewBinaryTree.java                                          | Intermediate (View)      |
++-------+--------------------------------------------------------------------+--------------------------+
+| 13    | 12_KthSmallestElement.java                                         | Advanced (Hard)          |
+| 14    | FixBST.java                                                        | Advanced (Hard)          |
+| 15    | LinkedListToBST.java                                               | Advanced (Construction)  |
++-------+--------------------------------------------------------------------+--------------------------+

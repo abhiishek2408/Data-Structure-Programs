@@ -1,0 +1,8 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_CountNumbersWithUniqueDigits.java                              | Intermediate (Digit DP)    |
+| 02    | _02_NumbersWithRepeatedDigits.java                                 | Advanced (Digit DP)        |
+| 03    | _03_NonNegativeIntegersWithoutConsecutiveOnes.java                 | Advanced (Digit DP)        |
+| 04    | _04_DigitDPSumProblems.java                                        | Advanced (Digit DP Generic)|
++-------+--------------------------------------------------------------------+----------------------------+

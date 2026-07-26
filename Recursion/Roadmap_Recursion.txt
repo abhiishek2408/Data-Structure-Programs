@@ -1,0 +1,28 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | BasicRec.java                                                      | Basics (Intro)           |
+| 02    | PowerOfTwo.java                                                    | Basics (Math)            |
+| 03    | ReverseString.java                                                 | Basics (String)          |
+| 04    | ReverseArray.java                                                  | Basics (Array)           |
+| 05    | BinaryToDecimal.java                                               | Basics (Math)            |
+| 06    | DecimalToBinary.java                                               | Basics (Math)            |
+| 07    | DecimalToOctal.java                                                | Basics (Math)            |
+| 08    | DecimalToHexadecimal.java                                          | Basics (Math)            |
+| 09    | OneInBinaryNo.java                                                 | Basics (Math)            |
++-------+--------------------------------------------------------------------+--------------------------+
+| 10    | TowerofHanoi.java                                                  | Intermediate (Classic)   |
+| 11    | SortArray.java                                                     | Intermediate (Sorting)   |
+| 12    | SortStack.java                                                     | Intermediate (Sorting)   |
+| 13    | InsertionSortArray.java                                            | Intermediate (Sorting)   |
+| 14    | ReverseStack.java                                                  | Intermediate (Logic)     |
+| 15    | PowerSetString.java                                                | Intermediate (Subsets)   |
+| 16    | PowerSetArray.java                                                 | Intermediate (Subsets)   |
++-------+--------------------------------------------------------------------+--------------------------+
+| 17    | JosephesProblem.java                                               | Advanced (Math/Logic)    |
+| 18    | RopeCuttingProblem.java                                            | Advanced (Logic)         |
+| 19    | CountSubsetsSum.java                                               | Advanced (Subsets)       |
+| 20    | CountSubsetsSumMemo.java                                           | Advanced (Subsets+DP)    |
+| 21    | Permutations.java                                                  | Advanced (Combinatorics) |
+| 22    | LetterCasePermutation.java                                         | Advanced (Combinatorics) |
++-------+--------------------------------------------------------------------+--------------------------+

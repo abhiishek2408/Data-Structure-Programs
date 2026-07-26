@@ -1,0 +1,71 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | _01_Fibonacci.java                                                     | Basics (1D DP)           |
+| 02    | _02_TribonacciNumber.java                                              | Basics (1D DP)           |
+| 03    | _03_ClimbingStair.java                                                 | Basics (1D DP)           |
+| 04    | _04_ClimbingStairII.java                                               | Basics (1D DP)           |
+| 05    | _05_ClimbingStairMinCost.java                                          | Basics (1D DP)           |
+| 06    | _06_FrogJumpEasy.java                                                  | Basics (1D DP)           |
+| 07    | _07_FrogJumpMedium.java                                                | Basics (1D DP)           |
+| 08    | _08_HouseRobber.java                                                   | Basics (1D DP)           |
+| 09    | _09_HouseRobberII.java                                                 | Basics (1D DP)           |
+| 10    | _10_MaxSumNonAdjacent.java                                             | Basics (1D DP)           |
+| 11    | _11_MaxSumNonAdjacentDP.java                                           | Basics (1D DP)           |
+| 12    | _12_MaximumSumNonAdjacent.java                                         | Basics (1D DP)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 13    | _13_UniquePaths.java                                                   | Intermediate (2D DP)     |
+| 14    | _14_UniquePathsII.java                                                 | Intermediate (2D DP)     |
+| 15    | _15_MinimumPathSum.java                                                | Intermediate (2D DP)     |
+| 16    | _16_SubsetSumProblem.java                                              | Intermediate (Subset)    |
+| 17    | _17_EqualPartition.java                                                | Intermediate (Subset)    |
+| 18    | _18_PartitionEqualSubsetSum.java                                       | Intermediate (Subset)    |
+| 19    | _19_CountSubsetsWithGivenSum.java                                      | Intermediate (Subset)    |
+| 20    | _20_TargetSum.java                                                     | Intermediate (Subset)    |
+| 21    | _21_KnapsackProblem.java                                               | Intermediate (Knapsack)  |
+| 22    | _22_Knapsack01.java                                                    | Intermediate (Knapsack)  |
+| 23    | _23_KnapsackDP.java                                                    | Intermediate (Knapsack)  |
+| 24    | _24_CoinChange.java                                                    | Intermediate (Infinite)  |
+| 25    | _25_CoinChangeSolver.java                                              | Intermediate (Infinite)  |
+| 26    | _26_MinimumCoinRecursive.java                                          | Intermediate (Infinite)  |
+| 27    | _27_MaximumCutsRecursive.java                                          | Intermediate (Partition) |
+| 28    | _28_MaximumCutsDP.java                                                 | Intermediate (Partition) |
++-------+--------------------------------------------------------------------+--------------------------+
+| 29    | _29_LCSRecursion.java                                                  | Advanced (LCS)           |
+| 30    | _30_LCSMemoization.java                                                | Advanced (LCS)           |
+| 31    | _31_LCSTabulation.java                                                 | Advanced (LCS)           |
+| 32    | _32_LongestCommonSubsequence.java                                      | Advanced (LCS)           |
+| 33    | _33_LongestPalindromicSubsequence.java                                 | Advanced (LCS)           |
+| 34    | _34_ShortestCommonSuperSubsequence.java                                | Advanced (LCS Variation) |
+| 35    | _35_EditDistanceRecursion.java                                         | Advanced (Edit Distance) |
+| 36    | _36_EditDistanceDP.java                                                | Advanced (Edit Distance) |
+| 37    | _37_LISDP.java                                                         | Advanced (LIS)           |
+| 38    | _38_LISBinarySearch.java                                               | Advanced (LIS O(nlogn))  |
+| 39    | _39_MaximumSumIncreasingSubsequence.java                               | Advanced (LIS Variation) |
+| 40    | _40_LongestChainOfPairDP.java                                          | Advanced (LIS Variation) |
+| 41    | _41_LongestChainOfPairGreedyApproach.java                             | Advanced (LIS Variation) |
+| 42    | _42_BuildingBridge.java                                                | Advanced (LIS Variation) |
+| 43    | _43_MaximumBitonicSubsequence.java                                     | Advanced (LIS Variation) |
+| 44    | _44_LDSDP.java                                                         | Advanced (LIS Variation) |
+| 45    | _45_LDSBinarySearch.java                                               | Advanced (LIS Variation) |
+| 46    | _46_LongestContigousIS.java                                            | Advanced (LIS Variation) |
+| 47    | _47_PrintAllIncreasingSubsequence.java                                 | Advanced (LIS Variation) |
+| 48    | _48_MinimumDeletionsToSortDP.java                                      | Advanced (LIS Variation) |
+| 49    | _49_MinimumDeletionsToSortBinarySearch.java                           | Advanced (LIS Variation) |
++-------+--------------------------------------------------------------------+--------------------------+
+| 50    | _50_MatrixChainMultiplication.java                                     | Hard (Partition DP)      |
+| 51    | _51_MatrixChainMultiplicationTabulation.java                           | Hard (Partition DP)      |
+| 52    | _52_PalindromePartitioning.java                                        | Hard (Partition DP)      |
+| 53    | _53_PalindromePartitioningDP.java                                      | Hard (Partition DP)      |
+| 54    | _54_EggDroppingPuzzle.java                                             | Hard (Partition DP)      |
+| 55    | _55_EggDroppingPuzzleDP.java                                           | Hard (Partition DP)      |
+| 56    | _56_OptimalStrategyGame.java                                           | Hard (Game Theory)       |
+| 57    | _57_OptimalStrategyGameDP.java                                         | Hard (Game Theory)       |
+| 58    | _58_CountBST.java                                                      | Hard (Math DP)           |
+| 59    | _59_MinPagesRecursive.java                                             | Hard (Binary Search/DP)  |
+| 60    | _60_MinPagesDP.java                                                    | Hard (Binary Search/DP)  |
+| 61    | _61_MinimumJumps.java                                                  | Hard (Logic)             |
+| 62    | _62_MinimumJumpsToEnd.java                                             | Hard (Logic)             |
+| 63    | _63_FrogJumpHard.java                                                  | Hard (Logic)             |
+| 64    | _64_DeleteAndEarn.java                                                 | Hard (Logic)             |
++-------+--------------------------------------------------------------------+--------------------------+

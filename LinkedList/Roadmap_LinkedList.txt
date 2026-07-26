@@ -1,0 +1,38 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | LinkedList.java                                                    | Basics (Structure)       |
+| 02    | LinkedListExample.java                                             | Basics (Intro)           |
+| 03    | LengthOfLL.java                                                    | Basics (Logic)           |
+| 04    | SearchAnElement.java                                               | Basics (Search)          |
+| 05    | SearchTargetValue.java                                             | Basics (Search)          |
+| 06    | InsertionAtFirst.java                                              | Basics (Insertion)       |
+| 07    | InsertionAtEnd.java                                                | Basics (Insertion)       |
+| 08    | InsertionAtMiddle.java                                             | Basics (Insertion)       |
+| 09    | DeletionFirstElement.java                                          | Basics (Deletion)        |
+| 10    | DeletionLastElement.java                                           | Basics (Deletion)        |
+| 11    | DeletionMiddleElement.java                                         | Basics (Deletion)        |
+| 12    | DeleteMiddleElement.java                                           | Basics (Deletion)        |
+| 13    | DeletionSpecificNode.java                                          | Basics (Deletion)        |
+| 14    | UpdateNodeData.java                                                | Basics (Modification)    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 15    | MiddleElement.java                                                 | Intermediate (Two Pointers) |
+| 16    | ReverseLL.java                                                     | Intermediate (Logic)     |
+| 17    | InsertionInSorted.java                                             | Intermediate (Logic)     |
+| 18    | SearchPreviousNode.java                                            | Intermediate (Logic)     |
+| 19    | MergeTwoLists.java                                                 | Intermediate (Algorithms)|
+| 20    | MergingLL.java                                                     | Intermediate (Algorithms)|
+| 21    | ComparisonOfTwoLL.java                                             | Intermediate (Logic)     |
+| 22    | SwapTwoNode.java                                                   | Intermediate (Logic)     |
+| 23    | SwapTwoNodeII.java                                                 | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 24    | CycleDetection.java                                                | Advanced (Floyd's)       |
+| 25    | Intersection.java                                                  | Advanced (Two Pointers)  |
+| 26    | IntersectionII.java                                                | Advanced (Two Pointers)  |
+| 27    | PalindromeLinkedList.java                                          | Advanced (Logic)         |
+| 28    | ReorderLinkedList.java                                             | Advanced (Logic)         |
+| 29    | ReverseKNode.java                                                  | Advanced (Recursion)     |
+| 30    | SegregateEvenOdd.java                                              | Advanced (Logic)         |
+| 31    | Union.java                                                         | Advanced (Logic)         |
+| 32    | RemoveNthNodeFromEnd.java                                          | Two Pointer / Slow-Fast  |
++-------+--------------------------------------------------------------------+--------------------------+

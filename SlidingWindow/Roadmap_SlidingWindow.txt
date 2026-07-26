@@ -1,0 +1,32 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | AverageOfSubarraySizeK.java                                        | Basics (Fixed Window)    |
+| 02    | MaxSumSubarray.java                                                | Basics (Fixed Window)    |
+| 03    | MinSumSubarray.java                                                | Basics (Fixed Window)    |
+| 04    | FirstNegativeInEveryWindow.java                                    | Basics (Fixed Window)    |
+| 05    | IsAnagram.java                                                     | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 06    | CountAnagramPattern.java                                           | Intermediate (Hashing)   |
+| 07    | FindAllAnagram.java                                                | Intermediate (Hashing)   |
+| 08    | PermutationInString.java                                           | Intermediate (Hashing)   |
+| 09    | MaxVowelsSubstring.java                                             | Intermediate (Fixed W)   |
+| 10    | LongestSubstring.java                                              | Intermediate (Variable W)|
+| 11    | LongestSubarraywithSumK.java                                       | Intermediate (Variable W)|
+| 12    | MaxConsecutiveOnesIII.java                                         | Intermediate (Variable W)|
+| 13    | Longest_Repeating_Character_Replacement.Java                       | Intermediate (Variable W)|
+| 14    | BackspaceCompare.java                                              | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 15    | CountSubarraySumK.java                                             | Advanced (Hashing+Prefix)|
+| 16    | BinarySubarraySum.java                                             | Advanced (Logic)         |
+| 17    | CountBinarySubarraySum.java                                        | Advanced (Logic)         |
+| 18    | CountNiceSubarrays.java                                            | Advanced (Logic)         |
+| 19    | MaxInSubarray.java                                                 | Advanced (Monotonic Q)   |
+| 20    | KDistinctSubstringList.java                                        | Advanced (Variable W)    |
+| 21    | LongestNiceSubarray.java                                           | Advanced (Bitmask/W)     |
+| 22    | MinimumWindowSubstring.java                                        | Advanced (Hard Variable) |
+| 23    | MinimumWindowSubsequence.java                                      | Advanced (Hard Variable) |
+| 24    | NumberOfOperationToMakeContinous.java                              | Advanced (Logic)         |
+| 25    | SlidingWinAnagram.java                                             | Intermediate (Hashing)   |
+| 26    | FruitIntoBaskets.java                                              | Intermediate (Variable W)|
++-------+--------------------------------------------------------------------+--------------------------+

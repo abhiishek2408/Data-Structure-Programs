@@ -1,0 +1,20 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | RunningSumArray.java                                               | Basics (Prefix Sum)      |
+| 02    | PrefixAndSuffixSum.java                                            | Basics (Prefix/Suffix)   |
+| 03    | PrefixSuffixProduct.java                                           | Basics (Prefix/Suffix)   |
+| 04    | ProductofArrayExceptSelf.java                                      | Basics (Logic)           |
+| 05    | FindPivotIndex.java                                                | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 06    | NextGreaterElementBruteForce.java                                  | Intermediate (Monotonic) |
+| 07    | NextGreaterElementNaive.java                                       | Intermediate (Monotonic) |
+| 08    | NextGreaterElementEfficient.java                                   | Intermediate (Monotonic) |
+| 09    | NextGreaterElement.java                                            | Intermediate (Monotonic) |
+| 10    | NextSmallerElement.java                                            | Intermediate (Monotonic) |
+| 11    | PreviousGreaterElement.java                                        | Intermediate (Monotonic) |
+| 12    | PreviousSmallerElement.java                                        | Intermediate (Monotonic) |
++-------+--------------------------------------------------------------------+--------------------------+
+| 13    | StockSpanProblemBruteForce.java                                    | Advanced (Logic)         |
+| 14    | StockSpanProblemEfficient.java                                     | Advanced (Monotonic S)   |
++-------+--------------------------------------------------------------------+--------------------------+

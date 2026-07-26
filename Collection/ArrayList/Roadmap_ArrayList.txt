@@ -1,0 +1,8 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | ArrayListExample.java                                              | Basics (Standard)        |
+| 02    | ArrayListExampleII.java                                            | Basics (Standard)        |
+| 03    | BinarySearchExample.java                                           | Basics (Searching)       |
+| 04    | ContainDuplicate.java                                              | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+

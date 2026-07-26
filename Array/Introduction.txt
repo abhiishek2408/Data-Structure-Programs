@@ -21,6 +21,8 @@ These help you understand **how two indices move**.
 8. **Move Zeroes to End**
 9. **Valid Palindrome ignoring special characters**
 10. **Intersection of Two Sorted Arrays**
+11. **Check if String is a Subsequence**
+12. **Find Smallest and Second Smallest Element**
 
 Concepts learned:
 
@@ -44,6 +46,9 @@ These introduce **conditions and pointer adjustments**.
 18. **Find Pair With Given Difference**
 19. **Pair With Target Sum in Sorted Array**
 20. **Trapping Rain Water (Two Pointer Approach)**
+21. **Bag of Tokens**
+22. **Interval List Intersections**
+23. **Maximize Distance to Closest Person**
 
 Concepts learned:
 
@@ -67,6 +72,10 @@ Sliding window is actually **a special type of two pointer** where both pointers
 28. **Fruit Into Baskets**
 29. **Subarray Product Less Than K**
 30. **Maximum Consecutive Ones III**
+31. **Count Number of Nice Subarrays**
+32. **Binary Subarrays With Sum**
+33. **Maximum Points You Can Obtain from Cards**
+34. **Longest Subarray of 1's After Deleting One Element**
 
 Concepts learned:
 
@@ -90,6 +99,8 @@ These combine **sorting + hashing + two pointers**.
 38. **Boats to Save People**
 39. **Partition Labels**
 40. **Shortest Unsorted Continuous Subarray**
+41. **Smallest Subarray With Sum Greater than X**
+42. **Minimize Maximum Pair Sum in Array**
 
 Concepts learned:
 
@@ -113,6 +124,8 @@ These appear in **FAANG interviews**.
 48. **Shortest Distance to Character**
 49. **Count Subarrays With Fixed Bounds**
 50. **Smallest Range Covering Elements From K Lists**
+51. **Find the Duplicate Number (Floyd's Cycle Find)**
+52. **Candy (LeetCode 135)**
 
 Concepts learned:
 

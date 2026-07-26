@@ -1,0 +1,23 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | Put.java                                                           | Basics (Fundamental)     |
+| 02    | Get.java                                                           | Basics (Fundamental)     |
+| 03    | Remove.java                                                        | Basics (Fundamental)     |
+| 04    | SizeofHashmap.java                                                 | Basics (Fundamental)     |
+| 05    | IsEmpty.java                                                       | Basics (Fundamental)     |
+| 06    | Clear.java                                                         | Basics (Fundamental)     |
+| 07    | ContainKey.java                                                    | Basics (Check)           |
+| 08    | ContainValue.java                                                  | Basics (Check)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 09    | PutAll.java                                                        | Intermediate (Methods)   |
+| 10    | Replace.java                                                       | Intermediate (Methods)   |
+| 11    | ReplaceAll.java                                                    | Intermediate (Methods)   |
+| 12    | GetOrDefault.java                                                  | Intermediate (Methods)   |
+| 13    | KeySetAndValues.java                                               | Intermediate (Traversal) |
+| 14    | Values.java                                                        | Intermediate (Traversal) |
+| 15    | ElementCounterI.java                                               | Intermediate (Application)|
+| 16    | ElementCounterII.java                                              | Intermediate (Application)|
+| 17    | ConfigurationExample.java                                          | Intermediate (Example)   |
+| 18    | MissingDataExample.java                                            | Intermediate (Example)   |
++-------+--------------------------------------------------------------------+--------------------------+

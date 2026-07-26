@@ -1,0 +1,23 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | CheckIfSorted.java                                                 | Basics (Logic)           |
+| 02    | SelectionSort.java                                                 | Basics (O(n^2))          |
+| 03    | SelectionSortStrings.java                                          | Basics (O(n^2))          |
+| 04    | InsertionSort.java                                                 | Basics (O(n^2))          |
+| 05    | InsertionSortStrings.java                                          | Basics (O(n^2))          |
+| 06    | SortedSquares.java                                                 | Basics (Logic)           |
+| 07    | SortBinaryArray.java                                               | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 08    | MergeTwoArrays.java                                                | Intermediate (Merging)   |
+| 09    | MergeSort.java                                                     | Intermediate (O(n log n))|
+| 10    | MergeSortStrings.java                                              | Intermediate (O(n log n))|
+| 11    | QuickSort.java                                                     | Intermediate (O(n log n))|
+| 12    | SortArray.java                                                     | Intermediate (Standard)  |
+| 13    | SortArrayByParity.java                                             | Intermediate (Two Pointers) |
+| 14    | SortArrayBySign.java                                               | Intermediate (Two Pointers) |
+| 15    | SortColors.java                                                    | Intermediate (Dutch Flag)|
++-------+--------------------------------------------------------------------+--------------------------+
+| 16    | CountingSort.java                                                  | Advanced (O(n+k))        |
+| 17    | CheckSortedAfterReverse.java                                       | Advanced (Logic)         |
++-------+--------------------------------------------------------------------+--------------------------+

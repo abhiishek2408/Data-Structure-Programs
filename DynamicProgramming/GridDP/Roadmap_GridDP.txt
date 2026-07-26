@@ -1,0 +1,11 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_UniquePaths.java                                               | Basics (2D Grid)           |
+| 02    | _02_UniquePathsII.java                                             | Basics (Grid + Obstacles)  |
+| 03    | _03_MinimumPathSum.java                                            | Basics (2D Grid)           |
+| 04    | _04_Triangle.java                                                  | Intermediate (Variable)    |
+| 05    | _05_DungeonGame.java                                               | Advanced (Reverse DP)      |
+| 06    | _06_MinimumFallingPathSum.java                                     | Intermediate (Multi-Start) |
+| 07    | _07_CherryPickupII.java                                            | Advanced (3D DP)           |
++-------+--------------------------------------------------------------------+----------------------------+

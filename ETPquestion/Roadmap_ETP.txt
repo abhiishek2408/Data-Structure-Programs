@@ -1,0 +1,26 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | TwoSumCheck.java                                                   | Basics (Array)           |
+| 02    | DuplicateII.java                                                   | Basics (Array)           |
+| 03    | BalancedParenthesis.java                                            | Basics (Stack)           |
+| 04    | MaxAverageSubarray.java                                            | Basics (Sliding Window)  |
++-------+--------------------------------------------------------------------+--------------------------+
+| 05    | LinkedListProblems.java                                            | Intermediate (LL)        |
+| 06    | LinkedListSorted.java                                              | Intermediate (LL)        |
+| 07    | LinkedListDuplicate.java                                           | Intermediate (LL)        |
+| 08    | RemoveNode.java                                                    | Intermediate (LL)        |
+| 09    | ReverseFirstKElements.java                                         | Intermediate (Queue)     |
+| 10    | SortStack.java                                                     | Intermediate (Stack)     |
+| 11    | ContainerWithMostWater.java                                        | Intermediate (Two Point)  |
+| 12    | SubarrayCounter.java                                               | Intermediate (Subarray)  |
+| 13    | SubarrayProductLessThanK.java                                      | Intermediate (Sliding W) |
++-------+--------------------------------------------------------------------+--------------------------+
+| 14    | LinkedListPalindrome.java                                          | Advanced (LL)            |
+| 15    | AddTwoLL.java                                                      | Advanced (LL)            |
+| 16    | AddForwardList.java                                                | Advanced (LL)            |
+| 17    | MaximumLengthRepeatedSubarray.java                                 | Advanced (DP)            |
+| 18    | ShortestSubarrayWithSumAtLeastK.java                               | Advanced (Hard Sliding W)|
+| 19    | New21Game.java                                                     | Advanced (Probability DP)|
+| 20    | Solution.java                                                      | Advanced (Misc)          |
++-------+--------------------------------------------------------------------+--------------------------+

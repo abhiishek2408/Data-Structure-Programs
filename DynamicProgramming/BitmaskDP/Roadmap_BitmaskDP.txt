@@ -1,0 +1,8 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_TravelingSalesmanProblem.java                                  | Advanced (Bitmask TSP)     |
+| 02    | _02_AssignmentProblem.java                                         | Advanced (Bitmask DP)      |
+| 03    | _03_PartitionToKEqualSumSubsets.java                               | Intermediate (Bitmask)     |
+| 04    | _04_ShortestPathVisitingAllNodes.java                              | Advanced (Graph Bitmask)   |
++-------+--------------------------------------------------------------------+----------------------------+

@@ -1,0 +1,12 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | ValidParentheses.java                                              | Basics (Standard)        |
+| 02    | BalanceParentheses.java                                            | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 03    | MinAddToMakeValidParentheses.java                                  | Intermediate (Counting)  |
+| 04    | MinRemoveToMakeValidParentheses.java                               | Intermediate (Stack/Logic)|
+| 05    | ValidParenthesisString.java                                        | Intermediate (Greedy)    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 06    | MinReversalsToBalanceParentheses.java                             | Advanced (Logic)         |
++-------+--------------------------------------------------------------------+--------------------------+

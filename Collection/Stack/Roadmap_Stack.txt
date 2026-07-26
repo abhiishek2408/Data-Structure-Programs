@@ -1,0 +1,20 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | MyStack.java                                                       | Basics (Intro)           |
+| 02    | StackUsingArray.java                                               | Basics (Implementation)  |
+| 03    | StackUsingLinkedList.java                                          | Basics (Implementation)  |
+| 04    | StackUsingQueues.java                                              | Basics (Implementation)  |
+| 05    | ReversingString.java                                               | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 06    | BalancedParentheses.java                                           | Intermediate (Logic)     |
+| 07    | RemoveOutermostParentheses.java                                    | Intermediate (Logic)     |
+| 08    | RemoveStars.java                                                   | Intermediate (Logic)     |
+| 09    | MinimumAddToMakeValid.java                                         | Intermediate (Logic)     |
+| 10    | MinimumRemoveValidParentheses.java                                 | Intermediate (Logic)     |
+| 11    | MinStack.java                                                      | Intermediate (Design)    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 12    | DailyTemperatures.java                                             | Advanced (Monotonic S)   |
+| 13    | TwoStacks.java                                                     | Advanced (Logic)         |
+| 14    | KStacks.java                                                       | Advanced (Design)        |
++-------+--------------------------------------------------------------------+--------------------------+

@@ -1,0 +1,17 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | IsSubsequenceBruteForce.java                                       | Basics (Check)           |
+| 02    | IsSubsequenceEfficient.java                                        | Basics (Check)           |
+| 03    | SubsequenceChecker.java                                            | Basics (Check)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 04    | SubsequenceRecursive.java                                          | Intermediate (Recursion) |
+| 05    | SubsequenceIterative.java                                          | Intermediate (Iterative) |
+| 06    | SubsequenceBitMasking.java                                         | Intermediate (Bitmask)   |
+| 07    | IsSubsetUsingHashSet.java                                          | Intermediate (Hashing)   |
++-------+--------------------------------------------------------------------+--------------------------+
+| 08    | LCSofString.java                                                   | Advanced (LCS String)    |
+| 09    | LCSofArray.java                                                    | Advanced (LCS Array)     |
+| 10    | SCSofString.java                                                   | Advanced (SCS String)    |
+| 11    | SCSofArray.java                                                    | Advanced (SCS Array)     |
++-------+--------------------------------------------------------------------+--------------------------+

@@ -1,0 +1,217 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | AdjacencyMatrix.java                                               | Basics (Matrix Repr)     |
+| 02    | DirectedGraphMatrix.java                                           | Basics (Matrix Repr)     |
+| 03    | WeightedGraph.java                                                 | Basics (Matrix Repr)     |
+| 04    | GraphInput.java                                                    | Basics (Matrix Repr)     |
+| 05    | AdjacencyList.java                                                 | Basics (List Repr)       |
+| 06    | AddRemoveMatrixVertices.java                                       | Basics (Matrix Repr)     |
+| 07    | AddRemoveMatrixEdgeUndirected.java                                 | Basics (Matrix Repr)     |
+| 08    | AddRemoveMatrixEdgeDirected.java                                   | Basics (Matrix Repr)     |
+| 09    | AddRemoveListVertices.java                                         | Basics (List Repr)       |
+| 10    | AddRemoveListEdgeUnDirected.java                                   | Basics (List Repr)       |
+| 11    | AddRemoveListEdgeDirected.java                                     | Basics (List Repr)       |
+| 12    | CheckAdjVerticesMatrix.java                                        | Basics (Matrix Logic)    |
+| 13    | CheckAdjVerticesList.java                                          | Basics (List Logic)      |
+| 14    | FindAdjVerticesMatrix.java                                         | Basics (Matrix Logic)    |
+| 15    | FindAdjVerticesList.java                                           | Basics (List Logic)      |
+| 16    | FindDegreeUnDirected.java                                          | Basics (Properties)      |
+| 17    | FindDegreeDirected.java                                            | Basics (Properties)      |
+| 18    | FindDegreeAdjList.java                                             | Basics (Properties)      |
++-------+--------------------------------------------------------------------+--------------------------+
+| 19    | BFSConnectedSource.java                                            | Intermediate (BFS)       |
+| 20    | BFSDisConnectedSource.java                                         | Intermediate (BFS)       |
+| 21    | BFSConnectedDisconnected.java                                      | Intermediate (BFS)       |
+| 22    | DFS.java                                                           | Intermediate (DFS)       |
+| 23    | BFS_Shortestpath.java                                              | Intermediate (BFS)       |
++-------+--------------------------------------------------------------------+--------------------------+
+| 24    | CycleDetectionUndirected.java                                      | Advanced (DFS/BFS)       |
+| 25    | CycleDetectionDirected.java                                        | Advanced (DFS/BFS)       |
+| 26    | TopologicalSort_DFS.java                                           | Advanced (Topological)   |
+| 27    | TopologicalSort__BFS.java                                          | Advanced (Kahn's)        |
+| 28    | ShortestPathDAG.java                                               | Advanced (DP on Graph)   |
++-------+--------------------------------------------------------------------+--------------------------+
+
+
+
+
+/*
+Haan, list kaafi achchi hai, lekin kuch points duplicate hain aur kuch important BFS variants add kiye ja sakte hain.
+
+### BFS Variants (Organized)
+
+### 1. Basic BFS
+
+*1.1 Standard BFS Traversal
+**1.1.1 BFS of Graph**
+**1.1.2 BFS on Disconnected Graph**
+**1.1.3 BFS in Directed Graph**
+**1.1.4 BFS for Connected Components**
+**1.1.5 Print Level Order of Graph**
+**1.1.6 Level Order BFS**
+**1.1.7 Tree Levels**
+**1.1.8 Zigzag**
+**1.1.9 Binary Tree Level Order**
+**1.1.10 Right Side View**
+**1.1.11 Average of Levels**
+**1.1.12 Reachability Problem**
+
+*1.2 BFS on Disconnected Graph
+**1.2.1 BFS of Disconnected Graph**
+**1.2.2 Count Components**
+**1.2.3 Number of Provinces**
+**1.2.4 Connected Components in Graph**
+**1.2.5 Find Weakly Connected Components**
+
+### 2. Shortest Path BFS
+**2.1 Shortest Path in Unweighted Graph**
+**2.2 BFS with Path Reconstruction**
+**2.3 Reverse BFS**
+**2.4 K-Level BFS**
+**2.5 Minimum Edge Distance**
+**2.6 Network Routing**
+**2.7 Shortest Path in Binary Matrix**
+**2.8 Message Route (CSES)**
+**2.9 Shortest Reachable Vertex**
+**2.10 Shortest Distance to Reach Target Vertex**
+**2.11 Shortest path to target vertex**
+**2.12 Shortest distance between two vertices**
+**2.13 Minimum distance between any two vertices**
+**2.14 Shortest path from given source to all other vertices**
+**2.15 Shortest distance from any vertex to given target vertex**
+**2.16 Minimum number of edges to reach target vertex**
+**2.17 Minimum number of edges from any vertex to given target vertex**
+**2.18 Minimum number of edges from given source to all other vertices**
+
+
+### 3. Multi-Source BFS
+
+*3.1 Rotten Oranges
+*3.2 0-1 Matrix
+*3.3 As Far from Land as Possible
+*3.4 Map of Highest Peak
+*3.5 Walls and Gates
+*3.6 Nearest Distance Problems
+*3.7 Nearest Hospital Problem
+*3.8 Nearest Police Station Problem
+*3.9 Fire Spread / Virus Spread Simulation
+*3.10 Fire Spread
+*3.11 Virus Spread
+*3.12 Nearest Exit from Entrance
+
+
+
+
+
+
+### 4. Grid / Matrix BFS
+
+*4.1 Number of Islands
+*4.2 Flood Fill
+*4.3 Surrounded Regions
+*4.4 Shortest Path in Binary Matrix
+*4.5 Knight Moves
+*4.6 Maze Problems
+*4.7 BFS with Obstacles
+*4.8 Max Area of Island
+*4.9 Pacific Atlantic Water Flow
+*4.10 Shortest Path in Binary Matrix
+
+
+
+### 5. BFS + Parent Tracking
+
+*5.1 Cycle Detection in Undirected Graph
+*5.2 BFS with Path Reconstruction
+*5.3 Message Route
+*5.4 Print Shortest Path
+*5.5 Graph Valid Tree
+*5.6 Detect Cycle
+
+
+
+### 6. Bipartite BFS
+
+*6.1 Bipartite Graph Check
+*6.2 Possible Bipartition
+*6.3 Enemy Relations
+
+
+
+### 7. Special BFS
+
+*7.1 0-1 BFS
+*7.2 Lexicographical BFS
+*7.3 Bidirectional BFS
+
+---
+
+### 8. State Space BFS
+
+*8.1 Open Lock
+*8.2 Sliding Puzzle
+*8.3 Water Jug Problem
+*8.4 Minimum Operations Problems
+
+---
+
+### 9. Implicit Graph BFS
+
+*9.1 Word Ladder
+*9.2 Open Lock
+*9.3 Genetic Mutation
+*9.4 Knight Moves
+
+### 10. Level Order BFS (Tree)
+
+*10.1 Binary Tree Level Order Traversal
+*10.2 Zigzag Traversal
+*10.3 Right Side View
+*10.4 Average of Levels
+
+---
+
+### 11. Topological BFS
+
+*11.1 Kahn's Algorithm
+*11.2 Course Schedule
+*11.3 Alien Dictionary
+
+
+### 12. K-Level BFS
+*12.1 Nodes at Distance K
+*12.2 K-Hop Friends
+*12.3 All Nodes Distance K
+*12.4 Network Reachability
+---
+
+### 13. Advanced BFS
+
+*13.1 Multi-State BFS
+*13.2 BFS + Bitmask
+*13.3 BFS on Weighted Graph (0-1 BFS)
+*13.4 BFS on DAG Levels
+
+
+
+## Interview Perspective (Most Important)
+
+If you master these 10 patterns, 95% BFS questions cover ho jayenge:
+
+1. Standard BFS
+2. Shortest Path BFS
+3. Multi-Source BFS
+4. Grid BFS
+5. BFS + Parent (Cycle Detection)
+6. Bipartite BFS
+7. 0-1 BFS
+8. State BFS (Open Lock)
+9. Word Ladder (Implicit Graph)
+10. Kahn's Topological BFS
+
+Ye DSA interviews me sabse zyada pooche jaate hain.
+
+
+
+*/

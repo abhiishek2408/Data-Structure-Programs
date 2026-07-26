@@ -1,0 +1,9 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_StoneGame.java                                                 | Intermediate (Game Math)   |
+| 02    | _02_StoneGameII.java                                               | Advanced (Minimax DP)      |
+| 03    | _03_PredictTheWinner.java                                          | Intermediate (Minimax)     |
+| 04    | _04_OptimalStrategyForAGame.java                                   | Advanced (Minimax DP)      |
+| 05    | _05_CanIWin.java                                                   | Advanced (Minimax Bitmask) |
++-------+--------------------------------------------------------------------+----------------------------+

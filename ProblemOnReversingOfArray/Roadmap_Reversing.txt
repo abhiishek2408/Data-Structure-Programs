@@ -1,0 +1,33 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | ReverseArray.java                                                  | Basics (Intro)           |
+| 02    | ReverseArrayXOR.java                                               | Basics (Logic)           |
+| 03    | ReverseExceptFirstLast.java                                        | Basics (Logic)           |
+| 04    | ReverseAfterIndex.java                                             | Basics (Logic)           |
+| 05    | ReverseUntilIndex.java                                             | Basics (Logic)           |
+| 06    | RotateLeftByOne.java                                               | Basics (Logic)           |
+| 07    | RotateRightByOne.java                                              | Basics (Logic)           |
++-------+--------------------------------------------------------------------+--------------------------+
+| 08    | ReverseBetween.java                                                | Intermediate (Logic)     |
+| 09    | ReverseFirstK.java                                                 | Intermediate (Logic)     |
+| 10    | ReverseOnlyLetters.java                                            | Intermediate (Logic)     |
+| 11    | ReverseEvenPositioned.java                                         | Intermediate (Logic)     |
+| 12    | ReverseOddPositioned.java                                          | Intermediate (Logic)     |
+| 13    | RotateLeftByK.java                                                 | Intermediate (Logic)     |
+| 14    | RotateRightByK.java                                                | Intermediate (Logic)     |
+| 15    | RotateLeftByKBetween.java                                          | Intermediate (Logic)     |
+| 16    | RotateRightByKBetween.java                                         | Intermediate (Logic)     |
+| 17    | ReverseInGroups.java                                               | Intermediate (Logic)     |
+| 18    | CircularRotationReverse.java                                       | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 19    | CheckIfReversed.java                                               | Advanced (Logic)         |
+| 20    | ReverseAlternateK.java                                              | Advanced (Logic)         |
+| 21    | ReverseByCondition.java                                             | Advanced (Logic)         |
+| 22    | ReversePrefixRepeatedly.java                                       | Advanced (Logic)         |
+| 23    | ReverseSuffixRepeatedly.java                                       | Advanced (Logic)         |
+| 24    | ReverseSubarrayToSort.java                                         | Advanced (Logic)         |
+| 25    | ReversePairsToSort.java                                            | Advanced (Logic)         |
+| 26    | ReverseToMaximizeSum.java                                          | Advanced (Logic)         |
+| 27    | ReverseBits.java                                                   | Advanced (Logic)         |
++-------+--------------------------------------------------------------------+--------------------------+

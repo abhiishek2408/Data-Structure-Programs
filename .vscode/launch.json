@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "PriorityQueue.Main",
+      "projectName": "DSA-Programs_723c4b65"
+    },
+    {
+      "type": "java",
       "name": "PivotIndex",
       "request": "launch",
       "mainClass": "TwoPointer.PivotIndex",

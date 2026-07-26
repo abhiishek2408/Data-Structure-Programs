@@ -1,0 +1,15 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_MatrixChainMultiplication.java                                 | Advanced (MCM)             |
+| 02    | _02_MatrixChainMultiplicationTabulation.java                       | Advanced (MCM)             |
+| 03    | _03_PalindromePartitioning.java                                    | Advanced (MCM Var)         |
+| 04    | _04_PalindromePartitioningDP.java                                  | Advanced (MCM Var)         |
+| 05    | _05_EggDroppingPuzzle.java                                         | Advanced (MCM Var)         |
+| 06    | _06_EggDroppingPuzzleDP.java                                       | Advanced (MCM Var)         |
+| 07    | _07_OptimalStrategyGame.java                                       | Advanced (Game Theory)     |
+| 08    | _08_OptimalStrategyGameDP.java                                     | Advanced (Game Theory)     |
+| 09    | _09_CountBST.java                                                  | Advanced (Catalan Number)  |
+| 10    | _10_MinPagesRecursive.java                                         | Advanced (Minimax)         |
+| 11    | _11_MinPagesDP.java                                                | Advanced (Minimax)         |
++-------+--------------------------------------------------------------------+----------------------------+

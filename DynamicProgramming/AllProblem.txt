@@ -12,23 +12,29 @@ These focus on:
 
 ---
 
-## 🔹 1. Fibonacci Type (Most Basic)
+## 🔹 1. Linear DP (Most Basic) 
 
 1. Fibonacci Number
 2. Climbing Stairs
-3. Min Cost Climbing Stairs
-4. Tribonacci Number
+3. Frog Jump
+4. Min Cost Climbing Stairs
+5. Tribonacci Number
+6. Decode Ways (LeetCode 91)
+7. Maximum Subarray (Kadane's via DP)
+8. Counting Bits (LeetCode 338)
 
 👉 Goal: Understand **dp[i] depends on previous values**
 
----
 
-## 🔹 2. Basic 1D DP (Simple Decisions)
+
+## 🔹 2. Basic 1D DP Decision Making Problems (Simple Decisions)
 
 5. House Robber
 6. House Robber II
 7. Maximum Sum of Non-Adjacent Elements
 8. Delete and Earn
+9. Paint House (Premium/Classic)
+10. Paint Fence
 
 👉 Concept:
 
@@ -37,11 +43,14 @@ These focus on:
 
 ---
 
+
 ## 🔹 3. Basic Grid DP
 
 9. Unique Paths
 10. Unique Paths II (with obstacles)
 11. Minimum Path Sum
+12. Dungeon Game (LeetCode 174)
+13. Triangle (Minimum Path Sum)
 
 👉 Concept:
 
@@ -55,6 +64,8 @@ These focus on:
 12. Subset Sum Problem
 13. Equal Partition
 14. Count Subsets with Given Sum
+15. Count Subsets with Given Difference
+16. Target Sum (Subsequence Approach)
 
 👉 Concept:
 
@@ -68,6 +79,8 @@ These focus on:
 15. 0/1 Knapsack
 16. Target Sum
 17. Partition Equal Subset Sum
+18. Last Stone Weight II
+19. Ones and Zeroes (LeetCode 474)
 
 👉 Concept:
 
@@ -81,6 +94,8 @@ These focus on:
 18. Longest Common Subsequence (LCS)
 19. Longest Palindromic Subsequence
 20. Edit Distance
+21. Shortest Common Supersequence
+22. Delete Operation for Two Strings
 
 👉 Concept:
 
@@ -94,6 +109,8 @@ These focus on:
 21. Coin Change (Minimum coins)
 22. Coin Change 2 (Number of ways)
 23. Rod Cutting Problem
+24. Perfect Squares (LeetCode 279)
+25. Integer Break (LeetCode 343)
 
 👉 Concept:
 
@@ -123,6 +140,8 @@ Now we go beyond basics and learn:
 3. Maximum Product Subarray
 4. Best Time to Buy and Sell Stock I
 5. Best Time to Buy and Sell Stock II
+6. Wiggle Subsequence
+7. Maximum Length of Pair Chain
 
 👉 Concept:
 
@@ -137,6 +156,8 @@ Now we go beyond basics and learn:
 7. Number of LIS
 8. Longest Bitonic Subsequence
 9. Russian Doll Envelopes
+10. Longest Arithmetic Subsequence
+11. Longest String Chain
 
 👉 Concept:
 
@@ -150,6 +171,8 @@ Now we go beyond basics and learn:
 10. Triangle Minimum Path Sum
 11. Minimum Falling Path Sum
 12. Cherry Pickup (Hard but pattern-based)
+13. Cherry Pickup II
+14. Maximum Path Sum in Grid (with constraints)
 
 👉 Concept:
 
@@ -164,6 +187,8 @@ Now we go beyond basics and learn:
 14. Shortest Common Supersequence
 15. Distinct Subsequences
 16. Wildcard Matching
+17. Longest Palindromic Substring (DP approach)
+18. Minimum ASCII Delete Sum for Two Strings
 
 👉 Concept:
 
@@ -178,6 +203,8 @@ Now we go beyond basics and learn:
 18. Rod Cutting (revisited)
 19. Coin Change variations
 20. Minimum subset sum difference
+21. Combination Sum IV
+22. Pizza With 3n Slices (Advanced Knapsack)
 
 👉 Concept:
 
@@ -191,6 +218,8 @@ Now we go beyond basics and learn:
 21. Palindrome Partitioning II
 22. Matrix Chain Multiplication (MCM)
 23. Burst Balloons
+24. Minimum Cost to Cut a Stick
+25. Super Egg Drop
 
 👉 Concept:
 
@@ -205,6 +234,7 @@ Now we go beyond basics and learn:
 25. Buy & Sell Stock IV
 26. Buy & Sell with Cooldown
 27. Buy & Sell with Transaction Fee
+28. Buy & Sell Stock (Unlimited with Fee)
 
 👉 Concept:
 
@@ -253,6 +283,8 @@ Follow this sequence:
 2. Maximum Path Sum in Binary Tree
 3. House Robber III
 4. Binary Tree Cameras
+5. Tree Distances I & II (CSES)
+6. Longest ZigZag Path in a Binary Tree
 
 👉 Concept:
 
@@ -267,6 +299,8 @@ Follow this sequence:
 5. Traveling Salesman Problem (TSP)
 6. Assignment Problem
 7. Minimum Cost to Connect Cities
+8. Smallest Sufficient Team (LeetCode 1125)
+9. Maximum Students Taking Exam (LeetCode 1349)
 
 👉 Concept:
 
@@ -281,6 +315,8 @@ Follow this sequence:
 8. Count Numbers with Given Digits
 9. Numbers with Unique Digits
 10. Count numbers in a range (with constraints)
+11. Numbers At Most N Given Digit Set
+12. Non-negative Integers without Consecutive Ones
 
 👉 Concept:
 
@@ -295,6 +331,8 @@ Follow this sequence:
 11. Shortest Path with DP (DAG DP)
 12. Longest Path in DAG
 13. DP + BFS/DFS problems
+14. Cheapest Flights Within K Stops
+15. Number of Ways to Arrive at Destination
 
 👉 Concept:
 
@@ -308,6 +346,8 @@ Follow this sequence:
 14. Matrix Chain Multiplication (revisit)
 15. Burst Balloons
 16. Minimum Cost to Cut Stick
+17. Minimum Score Triangulation of Polygon
+18. Remove Boxes (Hardest Pattern)
 
 👉 Concept:
 
@@ -321,6 +361,8 @@ Follow this sequence:
 17. Stone Game
 18. Predict the Winner
 19. Nim Game variations
+20. Stone Game II & III
+21. Cat and Mouse
 
 👉 Concept:
 
@@ -334,6 +376,8 @@ Follow this sequence:
 20. Regular Expression Matching
 21. Scramble String
 22. Interleaving String
+23. Distinct Subsequences II
+24. Word Break II
 
 👉 Concept:
 

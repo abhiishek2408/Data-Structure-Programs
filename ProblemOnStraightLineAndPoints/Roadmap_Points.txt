@@ -1,0 +1,35 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | _MidpointOfTwoPoints.java                                           | Basics (Fundamentals)    |
+| 02    | _DistanceBetweenNPoints.java                                        | Basics (Fundamentals)    |
+| 03    | _SlopeOfLine.java                                                   | Basics (Fundamentals)    |
+| 04    | _AreaOfTriangleCoordinates.java                                     | Basics (Fundamentals)    |
+| 05    | _CheckValidTriangle.java                                            | Basics (Geometry)        |
+| 06    | _ClosestPointToOrigin.java                                          | Basics (Geometry)        |
++-------+--------------------------------------------------------------------+--------------------------+
+| 07    | _CheckStraightLine.java                                             | Intermediate (Geometry)  |
+| 08    | _CheckCollinearPoints.java                                          | Intermediate (Geometry)  |
+| 09    | _CountCollinearTriplets.java                                        | Intermediate (Geometry)  |
+| 10    | _CheckRightAngledTriangle.java                                      | Intermediate (Geometry)  |
+| 11    | _CheckRectangleFormed.java                                          | Intermediate (Geometry)  |
+| 12    | _CheckSquareFormed.java                                             | Intermediate (Geometry)  |
+| 13    | _ValidSquare.java                                                   | Intermediate (Geometry)  |
+| 14    | _CountPointsInsideCircle.java                                       | Intermediate (Geometry)  |
+| 15    | _CountLatticePointsInsideCircle.java                               | Intermediate (Geometry)  |
+| 16    | _CountLatticePointsInMultipleCircles.java                           | Intermediate (Geometry)  |
+| 17    | _QueriesOnPointsInsideCircle.java                                   | Intermediate (Geometry)  |
++-------+--------------------------------------------------------------------+--------------------------+
+| 18    | _BoomerangPoints.java                                               | Advanced (Geometry)      |
+| 19    | _KClosestPointsToOrigin.java                                        | Advanced (Priority Q)    |
+| 20    | _MaxPointsOnALine.java                                              | Advanced (Hard Logic)    |
+| 21    | _NumberOfRightTriangles.java                                        | Advanced (Hard Logic)    |
+| 22    | _CountRectangles.java                                               | Advanced (Hard Logic)    |
+| 23    | _CountRectangless.java                                              | Advanced (Hard Logic)    |
+| 24    | _ClosestPairOfPoints.java                                           | Advanced (Divide & Conq) |
+| 25    | _ConvexHull.java                                                    | Advanced (Classic)       |
+| 26    | _CheckParallelLines.java                                            | Coordinate Geometry      |
+| 27    | _CheckPerpendicularLines.java                                       | Coordinate Geometry      |
+| 28    | _EquationOfLine.java                                                | Coordinate Geometry      |
+| 29    | _IntersectionOfTwoLines.java                                        | Coordinate Geometry      |
++-------+--------------------------------------------------------------------+--------------------------+

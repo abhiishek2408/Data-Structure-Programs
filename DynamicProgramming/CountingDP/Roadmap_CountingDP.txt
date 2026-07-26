@@ -1,0 +1,10 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_ClimbingStairs.java                                            | Basics (Counting DP)       |
+| 02    | _02_CoinChangeII.java                                              | Intermediate (Counting DP) |
+| 03    | _03_DecodeWays.java                                                | Intermediate (Counting DP) |
+| 04    | _04_DistinctSubsequences.java                                      | Advanced (Counting String) |
+| 05    | _05_CountBST.java                                                  | Intermediate (Catalan)     |
+| 06    | _06_FriendsPairingProblem.java                                     | Intermediate (Counting DP) |
++-------+--------------------------------------------------------------------+----------------------------+

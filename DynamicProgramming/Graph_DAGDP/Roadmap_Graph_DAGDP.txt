@@ -1,0 +1,9 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_LongestPathInDAG.java                                          | Intermediate (DAG DP)      |
+| 02    | _02_CheapestFlightsWithinKStops.java                               | Advanced (Graph DP)        |
+| 03    | _03_JumpGame.java                                                  | Intermediate (Graph DP)    |
+| 04    | _04_JumpGameII.java                                                | Advanced (Graph DP)        |
+| 05    | _05_WordLadder.java                                                | Advanced (Graph BFS DP)    |
++-------+--------------------------------------------------------------------+----------------------------+

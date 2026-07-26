@@ -1,0 +1,18 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_SubsetSumProblem.java                                          | Basics (Subset DP)         |
+| 02    | _02_EqualPartition.java                                            | Basics (Subset DP)         |
+| 03    | _03_PartitionEqualSubsetSum.java                                   | Basics (Subset DP)         |
+| 04    | _04_CountSubsetsWithGivenSum.java                                  | Intermediate (Count DP)    |
+| 05    | _05_TargetSum.java                                                 | Intermediate (Subset DP)   |
++-------+--------------------------------------------------------------------+----------------------------+
+| 06    | _06_KnapsackProblem.java                                           | Intermediate (0/1 Knapsack)|
+| 07    | _07_Knapsack01.java                                                | Intermediate (0/1 Knapsack)|
+| 08    | _08_KnapsackDP.java                                                | Intermediate (0/1 Knapsack)|
++-------+--------------------------------------------------------------------+----------------------------+
+| 09    | _09_CountSubsetsWithDiff.java                                      | Intermediate (Subset Math) |
+| 10    | _10_LastStoneWeightII.java                                         | Advanced (Min Partition)   |
+| 11    | _11_OnesAndZeroes.java                                             | Advanced (2D Knapsack)     |
+| 12    | _12_MinSubsetSumDiff.java                                          | Advanced (Min Partition)   |
++-------+--------------------------------------------------------------------+----------------------------+

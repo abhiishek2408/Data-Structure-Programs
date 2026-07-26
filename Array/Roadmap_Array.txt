@@ -1,0 +1,45 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | LargestElementInArray.java                                         | Basics (Intro)           |
+| 02    | SecondLargestElementInArray.java                                   | Basics (Intro)           |
+| 03    | CheckIfArrayIsSorted.java                                          | Basics (Easy)            |
+| 04    | LinearSearch.java                                                  | Basics (Easy)            |
+| 05    | LeftRotateByOne.java                                               | Basics (Easy)            |
+| 06    | MoveAllZeroToEnd.java                                              | Basics (Easy)            |
+| 07    | RemoveDuplicateFromSortedArray.java                                | Basics (Two Pointers)    |
+| 08    | FindMaxConsicutiveOne.java                                         | Basics (Counting)        |
+| 09    | FindMissingNumber.java                                             | Basics (Math/XOR)        |
+| 10    | SingleNumber.java                                                  | Basics (XOR)             |
+| 11    | TwoSum.java                                                        | Basics (Hashing)         |
++-------+--------------------------------------------------------------------+--------------------------+
+| 12    | Sort_0s_1s_2s.java                                                 | Intermediate (Dutch Flag)|
+| 13    | MajorityElement.java                                               | Intermediate (Moore's)   |
+| 14    | MaxSubArray_Sum_Kadane.java                                        | Intermediate (Kadane's)  |
+| 15    | PrintMaximumSubArray.java                                          | Intermediate (Kadane's+) |
+| 16    | RearrangeArrayBySign.java                                          | Intermediate (Two Pointers) |
+| 17    | SuperiorElement.java                                               | Intermediate (Leaders)   |
+| 18    | NextPermutation.java                                               | Intermediate (Algorithms)|
+| 19    | RotateArrayBy_D_Places.java                                        | Intermediate (Rotation)  |
+| 20    | Buy_Sell_Stocks.java                                               | Intermediate (Greedy)    |
+| 21    | Buy_Sell_Stocks_II.java                                            | Intermediate (Greedy)    |
+| 22    | FindDuplicateNumber.java                                           | Intermediate (Cycle/Hash)|
+| 23    | MergeSortedArray.java                                              | Intermediate (Sorting)   |
+| 24    | PascalTriangle_I.java                                              | Intermediate (Matrix/Math)|
+| 25    | PascalTriangle_II.java                                             | Intermediate (Matrix/Math)|
+| 26    | PascalTriangle.java                                                | Intermediate (Matrix/Math)|
+| 27    | SpiralMatrix.java                                                  | Intermediate (Matrix)    |
+| 28    | RotateImage.java                                                   | Intermediate (Matrix)    |
+| 29    | SetMatrixZeros.java                                                | Intermediate (Matrix)    |
+| 30    | Sum_3.java                                                         | Intermediate (Two Pointers) |
+| 31    | Sum_4.java                                                         | Intermediate (Two Pointers) |
++-------+--------------------------------------------------------------------+--------------------------+
+| 32    | MaxProductSubArray.java                                            | Advanced (DP/Kadane)     |
+| 33    | TrappingRainWater.java                                             | Advanced (Two Pointers)  |
+| 34    | ContainerWithMostWater.java                                        | Advanced (Two Pointers)  |
+| 35    | FindMissingAndRepeating.java                                       | Advanced (Math/XOR)      |
+| 36    | GasStation.java                                                    | Advanced (Greedy/Circular)|
+| 37    | Buy_Sell_Stocks_III.java                                           | Advanced (DP)            |
+| 38    | Buy_Sell_Stocks_IV.java                                            | Advanced (DP)            |
+| 39    | Buy_Sell_Stocks_With_Cooldown.java                                 | Advanced (DP)            |
++-------+--------------------------------------------------------------------+--------------------------+

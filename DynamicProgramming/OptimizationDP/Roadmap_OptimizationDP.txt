@@ -1,0 +1,9 @@
++-------+--------------------------------------------------------------------+----------------------------+
+| Order | File Name                                                          | Difficulty / Category      |
++-------+--------------------------------------------------------------------+----------------------------+
+| 01    | _01_CoinChange.java                                                | Intermediate (Coin Change) |
+| 02    | _02_CoinChangeSolver.java                                          | Intermediate (Coin Change) |
+| 03    | _03_MinimumCoinRecursive.java                                      | Intermediate (Coin Change) |
+| 04    | _04_MaximumCutsRecursive.java                                      | Intermediate (Rod Cutting) |
+| 05    | _05_MaximumCutsDP.java                                             | Intermediate (Rod Cutting) |
++-------+--------------------------------------------------------------------+----------------------------+

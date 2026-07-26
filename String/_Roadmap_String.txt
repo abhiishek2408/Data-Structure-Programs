@@ -1,0 +1,35 @@
++-------+--------------------------------------------------------------------+--------------------------+
+| Order | File Name                                                          | Difficulty / Category    |
++-------+--------------------------------------------------------------------+--------------------------+
+| 01    | StringIntroduction.java                                            | Basics (Intro)           |
+| 02    | PalindromeCheck.java                                               | Basics (Logic)           |
+| 03    | PalindromeChecker.java                                             | Basics (Logic)           |
+| 04    | LastOccuranceOfEachChar.java                                       | Basics (Char Analysis)   |
+| 05    | CountWordsFrequencyInString.java                                   | Basics (Word Analysis)   |
+| 06    | Check_If_Word_Equals_summation_of_Two_Words.java                   | Basics (Logic)           |
+| 07    | AddtoArrayFormofInteger.java                                       | Basics (Math)            |
++-------+--------------------------------------------------------------------+--------------------------+
+| 08    | ValidPalindromeII.java                                             | Intermediate (Logic)     |
+| 09    | ValidParentheses.java                                              | Intermediate (Stack)     |
+| 10    | ValidParenthesesI.java                                             | Intermediate (Stack)     |
+| 11    | BalanceParenthesis.java                                            | Intermediate (Stack)     |
+| 12    | IsomorphicStrings.java                                             | Intermediate (Hashing)   |
+| 13    | WordPattern.java                                                   | Intermediate (Hashing)   |
+| 14    | LongestCommonPrefix.java                                           | Intermediate (Logic)     |
+| 15    | IntegerToRoman.java                                                | Intermediate (Math)      |
+| 16    | RomanToInteger.java                                                | Intermediate (Math)      |
+| 17    | CountAndSay.java                                                   | Intermediate (Logic)     |
+| 18    | Autometa.java                                                      | Intermediate (Logic)     |
++-------+--------------------------------------------------------------------+--------------------------+
+| 19    | GenerateParetheses.java                                            | Advanced (Recursion)     |
+| 20    | MinSwapToBalancePrentheses.java                                    | Advanced (Greedy)        |
+| 21    | LongestSubstring_Sliding_Window.java                               | Advanced (Sliding Window)|
+| 22    | FindSubstringInWraproundString.java                                | Advanced (DP)            |
+| 23    | EncodeAndDecodeStrings.java                                        | Advanced (Logic)         |
+| 24    | NoOfSubsequence.java                                               | Advanced (Recursion)     |
+| 25    | PrimePalindrome.java                                               | Advanced (Math)          |
+| 26    | BinaryStringToInteger.java                                         | String Basics            |
+| 27    | ReverseWordsInString.java                                          | String Reversal          |
+| 28    | ReverseEachWord.java                                               | String Reversal          |
+| 29    | MinReversalsToBalanceParentheses.java                              | String / Stack Logic     |
++-------+--------------------------------------------------------------------+--------------------------+
