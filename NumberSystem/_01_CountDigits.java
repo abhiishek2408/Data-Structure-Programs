@@ -1,4 +1,4 @@
-public class CountDigits {
+public class _01_CountDigits {
     public static void main(String[] args) {
         int num = 12345; // Example number
         int count = 0;

@@ -1,5 +1,5 @@
 // LCM and HCF calculation for two numbers
-public class LCMandHCF {
+public class _18_LCMandHCF {
     // Calculate HCF (GCD) using Euclidean algorithm
     public static int hcf(int a, int b) {
         while (b != 0) {
